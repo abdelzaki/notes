@@ -2,7 +2,7 @@
 # Wortschatz 
 
 ### am:
-    - am gehen 
+    - am Gehen 
     - am arbeiten 
     - am lesen 
     - am schreiben 
@@ -93,6 +93,43 @@
 - herumkriegen:
 - breitschlagen 
 
+### heraus 
+- herauskristallisieren:
+    - mit der Zeit hat sich meine Idee herauskristallisiert 
+
+### vorbei 
+- vorbeikommen:
+    - wir kommen an diesem Problem nicht vorbei 
+    - ich komme bei dir vorbei 
+
+- vorbeigehen:
+    - diese Info ist an mir vorbei 
+    - ich gehen bei dem Supermarkt vorbei 
+    - ich gehe an diesem Auto Vorbei 
+    - Zeit geht schnell vorbei 
+
+- vorbeiführen:
+    - es führt kein Weg daran vorbei das zu machen 
+
+- vorbeischießen:
+    - wir haben am Ziel vorbeigeschossen 
+
+- vorbeireden:
+    - wir reden an einander vorbei
+
+### losigkeit 
+- machtlosigkeit:
+    - diese Machtlosigkeit macht mich wütend 
+
+- Hilflosigkeit:
+    - meine Hilflosigkeit war nervig 
+
+- endlosigkeit:
+    - die Endlosigkeit 
+
+- Schlaflosigkeit:
+    - die Schlaflosigkeit 
+    - ich hatte Schlaflosigkeit
 
 ### ent 
 - entzweien: [spalten]
@@ -222,6 +259,9 @@
 
 - seinlassen:
     - wenn es sehr mühe kostet dann lass es einfach sein.
+
+- herablassen:
+    - ich lasse mich auf das Nievau nicht herab 
 
 - zulassen:
     - es lässt keine freie Entscheidung zu 
@@ -1953,7 +1993,7 @@
 
 - umgehen:
     - die Grippe geht um = die Grippe greift um sich um 
-    - wie soll ich mit ihm ungehen 
+    - wie soll ich mit ihm n 
     - es lässt sich nicht umgehen 
     - ich habe die Stelle umgangen 
     - ich habe mit dem Problem gut umgegangen 
@@ -2186,6 +2226,10 @@
 - Laufpass:
     - sie gibt ihm dem Laufpass
 
+- Laufbahn:
+    - die Laufbahn 
+    - ich hatte sehr gute berufliche Laufbahn 
+
 - Mitläufer:
     - der Mitläufer 
     - ich bin einfach ein Mitläufer
@@ -2373,7 +2417,7 @@
     - das Geld kommt den flüchtlingen zugüte
 
 - zusammenkommen:
-    - es kamm heute viel zusammen 
+    - es kamm heute viel zusammen [summieren]
     - in meiner Abwesenheit ist einiges an Arbeit zusammengekommen
 
 - zurechtkommen:
@@ -2919,6 +2963,7 @@
 - Besteck:
     - das Besteck
     - wo finde ich die Bestecke 
+    - ich habe kein Besteck
 
 - durchstecken:
     - es ist sehr groß dass ich mein Hand durch den schlitz durchstecken kann 
@@ -2994,7 +3039,10 @@
     - ich steche die Blase auf 
 
 - erstechen:
-    - er wurde erstochen
+    - er wurde erstochen 
+
+- piksen:
+    - ich werde dich jetzt picksen 
 
 ### schlag
 - schlag:
@@ -3057,6 +3105,7 @@
 
 - einschlagen:
     - ich will einen neuen Weg einschlagen
+    - viele Probleme schlagen auf uns ein
     
 - durchschlagen:
     - ich schlage den Nagel durch den Holz durch
@@ -3292,10 +3341,14 @@
     - er hat auf Ausländer geschimpft 
 
 - beschimpfen:
-    - er hat mich beschimpfen  [beleidigen]
+    - er hat mich beschimpfen  [beleidigen] [schmähen]
 
 - ausschimpfen:
     - er hat das Kind ausgeschimpft [zurechtweisen]
+
+- Affront:
+    - der Affront 
+    - das war ein großer Affront 
 
 ### mangel && standen && reklamieren && beschweren
 - Mangel:
@@ -5513,6 +5566,9 @@
     - wie viel gibst du für Essen aus 
     - er gibt es als seinen Plan aus 
 
+- dazugeben:
+    - er gibt seinen Senf dazu
+
 - rausgeben:
     - haben Sie es Passend ? ich kann leider nicht rausgeben 
     - kannst du auf einen Hunderter(100) rausgeben
@@ -6282,9 +6338,14 @@
     - ich wollte keinen Anstoss erregen 
     - der Chef hat den Anstoß für das Projekt gegeben 
 
+- Verstoß:
+    - der Verstoß 
+    - das ist ein Verstoß gegen die Regel 
+
+
 ### rutschen
 - rutschen:
-    - ich bin ins Rutschen gekommen
+    - ich bin ins Rutschen gekommen [ins rutschen]
     - meine Hose rutscht
     - die Vase ist mir aus der Hand
     - könntest du ein bisschen rutschen
@@ -6752,6 +6813,7 @@
     - im Kühlschrank stinkt etwas 
 
 - stickig:
+- muffig:
     - die Luft ist hier stickig
 
 - Duft:
@@ -7758,6 +7820,10 @@
 - anders:
     - du siehst anders aus 
     - aus der Ferne sieht alles gut aus, schaut mal ein bisschen näher hin sieht es anders aus 
+
+- der ein oder der andere:
+    - der ein oder der andere kann das machen 
+    - für den einen oder den anderen könnte es interessant sein
 
 ### regen
 - Regen:
@@ -9224,6 +9290,15 @@
     - er hat sich bei mir entschüdligt 
     - ich entschüldige mein zuspätkommen mit schlechtem Verkehr  
 
+- Entschuldigung:
+    - die Entschuldigung
+    - man kann das als Entschuldigung interpretieren 
+
+- Anschuldigung:
+    - die Anschuldigung
+    - das ist eine heftige Anschuldigung 
+
+
 ### folgen
 - folgen:
     - ich folge dir nicht 
@@ -9449,7 +9524,7 @@
 
 - sauerei:
     - die Sauerei 
-    - das ist hier eine Sauereu 
+    - das ist hier eine sauerei 
 
 - sauer:
     - das ist sehr sauer 
@@ -10712,7 +10787,20 @@
 
 - Einleitung:
     - die Einleitung 
-    - kürze Einleitung
+    - kürze Einleitung 
+
+### Strom 
+- Strom:
+	- der Strom 
+	- es hat in Stömen geregnet 
+
+- strömen:
+    - dann kann die Luft strömen 
+
+- ausströmen:
+- einströmen:
+- nachströmen:
+    -  Die Blumen strömen Duft aus.
 
 ### fließen
 - fließen:
@@ -11222,7 +11310,6 @@
     - den Knopf drücken 
     - ich dürcke mich vor dieser Aufgage [sich]
 
-
 - abdrücken:
     - ich will das Blut abdrücken(abschnüren)
     - der Füß drückt im Sand ab 
@@ -11242,6 +11329,9 @@
 - bedrücken:
     - das bedrückt mich 
     - du siehst bedrück aus 
+
+- erdrücken:
+    - ich wollte es zu dieser Zeit nicht und kam mir erdrückt vor 
 
 - unterdrücken:
     - Frauen werden unterdrückt 
@@ -12018,6 +12108,9 @@
 
 - überspitzen:
     - ich überspitze gerade die Situation
+ 
+- bespitzeln:
+    - ich bespitzelt in dem Auftrag 
 
 ### krempeln
 - hochkrempeln:
@@ -13393,17 +13486,6 @@
 - ausbremsen:
     - das hat uns ausgebremst [verlangsamern]
 
-### einigen 
-- einigen:
-    - wir haben uns auf einen Termin geeinigt 
-
-- einig:
-    - wir sind in diesem Punkt einig 
-	- es ist gut dass wir über solche Punkte einig sind
-
-- vereinigen:
-    - wir können uns vereinigen 
-
 ### Hunger
 - Hunger:
     - der Hunger 
@@ -14560,38 +14642,6 @@
 - versammeln:
     - wir versammeln uns 
 
-### schicken 
-- schicken:
-    - schick es bitte an mich 
-    - ich habe ihn nach Milch geschickt 
-    - ich habe ihn nach dir geschickt 
-
-- abschicken:
-- verschicken:
-- zuschicken:
-    - ich habe die Email abgeschickt 
-
-- einschicken:
-    - ich werde den Laptop einschicken 
-
-- herumschicken:
-    - Die neuen Mitarbeiter wurden den ganzen Tag durch die verschiedenen Abteilungen herumgeschickt, um alle kennenzulernen 
-
-- mitschicken:  
-    - ich schicke ein Foto mit dem Brief 
-
-- nachschicken:
-    - der Laptop wird später nachgeschickt 
-
-- vorschicken:
-    - wenn ich etwas brauche schickt er seinen Kleinen Brüder vor 
-
-- vorausschicken:
-    - ich werde die Koffer vorausschicken 
-
-- wegschicken:
-    - ich habe ihn weggeschickt 
-
 ### rüsten 
 - rüsten:
     - ich bin gut für diese Aufgabe gerüstet 
@@ -14832,13 +14882,31 @@
 - wegklicken:
     - ich klicke es weg
 
+### Hund 
+- harter Hund:
+    - er ist ein echter harter Hund 
+
+- auf den Hund kommen:
+    - es kommt auf den Hund gerade bei mir 
+
+- den Hund zum jagen tragen:
+    - man kann keinen Hund zum jagen tragen
+    - man kann nicht den Hund zum jagen tragen 
+
+- Schweinehund:
+    - der Schweinehund
+    - ich muss erste den Schweinehund überwinden
+
 ### gönnen:
 - gönnen:_
     - ich gönne ihm diesen Erfolg  [freuen]
     - ich habe mir eine Pause gegönnt 
 
 - vergönnen:
-    - Nach vielen Versuchen war es ihm endlich vergönnt, den Meistertitel zu gewinnen.“
+    - Nach vielen Versuchen war es ihm endlich vergönnt, den Meistertitel zu gewinnen.“ 
+
+- missgönnen:
+    - ich missgönne dir diesen Erfolg nicht
 
 - günstig:
     - wo kann man günstig essen 
@@ -14878,6 +14946,9 @@
 - aufbewahren:
     - das Doku aufbewahren 
 
+- verwahren:
+    - die Dinge für dich verwahren
+
 - bewahrheiten:
     - meine Angst hat sich bewahrheitet 
 
@@ -14887,6 +14958,9 @@
 - Wahrheit:
     - die Wahrheit 
     - das ist aber die Wahrheit 
+
+- wahrhaftig:
+    - sie haben das gesagtr aber sie haben das nicht wahrhaftig gemeint 
 
 ### klatsch
 - Klatsch:
@@ -14961,7 +15035,7 @@
     - wir reden hier aneinander vorbei 
 
 - verabreden:
-    - sich veranreden 
+    - sich verabreden 
     - ich bin schon verabredet 
     - wir haben uns um 13 uhr im Kaffee verabredet 
     - ich habe mich mit ihm einen Termin um 12 Uhr verabredet 
@@ -15193,8 +15267,8 @@
 - ableugnen: 
     - ich will diese Sache nicht leugnen 
 
-- verleugnen:
-    - ich habe meine Herkunft nicht verleugnet 
+- verleugnen:_
+    - ich habe meine Herkunft nicht verleugnet [bekennen]
 
 ### dulden 
 - dulden:
@@ -15351,7 +15425,7 @@
 - abschmücken:
     - ich schmücke den Raum ab 
 
-- ausschmücken:
+- ausschmücken:_
     - ich habe die Geschichte ausgeschmückt 
 
 - Mücke:
@@ -15416,58 +15490,6 @@
 - erheitern:
     - wie soll ich ihn aufheitern 
 
-### prallen 
-- prallen:
-- aufprallen:
-    - er prallt mit dem Kopf gegen die Wand 
-
-- prall:
-    - der Reifen ist sehr prall 
-
-- abprallen:_
-- zurückprallen:
-    - der Ball prallt von der Wand ab 
-
-- aufeinanderprallen:
-- gegeneinanderprallen:
-- zusammenprallen:
-    - zwei Autos sind gestern aufeinandergeprallt 
-
-- knallen:
-    - die Maus knallt auf den Boden 
-
-- Knall:
-    - der Knall 
-    - vor einer Woche kam beu uns der große Knall
-
-### putzen
-- putzen:
-- anputzen:
-    - ich muss noch putzen 
-
-- aufputzen:    
-- herausputzen  
-    - ich putze mein Image auf 
-
-- herunterputzen:
-    - er putzt seine Frau herunter 
-
-- Putz:
-    - der Putz 
-
-- verputzen:
-    - ich muss die Wand verputzen 
-
-### rasten:
-- rasten:
-    - ich raste ein bisschen 
-
-- einrasten:
-    - die Tür ist eingerastet 
-
-- ausrasten:
-    - er wird ausrasten wenn er das hört [ausflippen] [durchdrehen]
-
 ### dürfen 
 - bedürfen:
     - er bedarf deiner Hilfe 
@@ -15500,8 +15522,6 @@
     - er versucht sein Verhalten zu rechtfertigen
     - ich muss mich nicht rechtfertigen 
     - das rechtfertigt den hohen Preis
-
-
 
 ### rang
 - rangieren:
@@ -15547,7 +15567,7 @@
 - verteuern:
     - das wird die Preise verteuren 
 
-- beteuern:
+- beteuern:_
     - ich habe meine Unschuld beteuert 
 
 ### schalten 
@@ -15563,6 +15583,9 @@
 
 - umschalten:
     - das Gerät schaltet auf Stronsparmodus um 
+
+- stummschalten:
+    - du bist stummgeschaltet
 
 ### wasch 
 - Wäsche:
@@ -15872,7 +15895,7 @@
     - ich habe gute laune 
 
 - ausgelaugt:
-    - ich bin ausgelaugt
+    - ich bin ausgelaugt [geschlaucht]
 
 - launisch:
     - er ist sehr launisch    
@@ -15885,7 +15908,7 @@
     - ich habe die Chance verpennt 
 
 - penner:
-    - er ist ein Penner 
+    - er ist ein Penner [obdachloser]
 
 ### bügeln
 - bügeln:
@@ -15961,7 +15984,6 @@
 - checken:
     - ich checke es einfach nicht 
 
-
 - abchecken:
     - ich werde es mit dem Chef abchecken ob das gehen kann 
 
@@ -16034,6 +16056,7 @@
 - keim:
     - der Keim 
     - wir müssen die Keime abtöten
+    - im Keim ersticken [im ]
 
 - keimen:
 - aufkeimen:
@@ -16234,7 +16257,13 @@
     - das kann mich befriedigen 
 
 - zufrieden:
-    - ich bin mit dem Ergebnis zufrieden
+    - ich bin mit dem Ergebnis zufrieden 
+
+- zufriedenstellen: 
+    - es ist nicht meine Aufgabe ihm zufriendenzustellen 
+
+- zufriedengeben:   
+    - wir müssen uns nicht schnell zufrieden geben 
 
 ### zucken
 - zucken:
@@ -16316,7 +16345,7 @@
     - ich habe den Glaube an ihn verloren 
 
 - Aberglaube:   
-    - Aberglaube 
+    - der Aberglaube 
     - das ist ein Aberglaube 
 
 - beglaubigen:
@@ -16485,6 +16514,9 @@
 - allgemeines:
     - das ist viel zu allgemeinver
 
+- verallgemeinern:
+    - ich will nicht verallgemeinern
+
 ### Frist 
 - Frist:
     - die Frist
@@ -16580,11 +16612,13 @@
     - das Gehalt kürzen 
 
 - abkürzen:
-    - den Weg 
+    - den Weg [abkürzen nehmen]
     - das Gespräch 
+    - das Wort abkürzen
 
 - verkürzen:
     - die Schilzwit wird verkürzt 
+    - der Weg verkürtzt sich
 
 ### pflicht
 - Pflicht:
@@ -16907,7 +16941,6 @@
     - der Fehltritt 
     - das ist ein Fehltritt und ich bereue es 
 
-
 ### tätig 
 - bestätigen:
     - das hat meine Vermutung bestätigen 
@@ -16930,7 +16963,7 @@
     - er ist ein Händler 
 
 - verhandeln:
-    - ich habe mit ihm verhandeln
+    - ich habe mit ihm über etwas verhandeln
     - ich habe bei dem Gehalt gut verhandelt 
 
 - verhandelbar:
@@ -16952,6 +16985,9 @@
 - einhandeln:
     - das habe ich mir selbst eingehandelt [zuziehen] [zuschreiben] 
 
+- misshandeln:
+    - sie habe ihn misshandelt
+
 ### jubeln 
 - jubeln:
     - er hat über den Erfolg zu früh jubeln 
@@ -16965,15 +17001,15 @@
 - unterjubeln:
     - er hat mir ein altes Gerät untergejubelt 
 
-### winken
-- winken:
+### winken 
+- winken: [hinken]
     - ich habe dem Kellner gewinkt 
 
 - abwinken:
     - ich wollte mit ihm sprechen er hat aber abgewinkt 
 
 - nachwinken:
-    - ich winke ihm nach  
+    - ich winke ihm nach  [goodbye]
 
 ### leid 
 - Leid:
@@ -17009,7 +17045,7 @@
 - anstiften:
     - er hat mich zu dieser Tat angestiftet 
 
- Stift:
+- Stift:
     - der Stift 
     - ich brauche einen Stift 
 
@@ -17201,7 +17237,7 @@
     - die Firma ist ausgeblutet
 
 - verbluten:
-    - sie hat verblutet [viel Blut verloren] 
+    - sie hat verblutet [viel Blut verloren und sterben] 
 
 - nachbluten:
     - sie hat wieder nachgeblutet
@@ -17313,20 +17349,6 @@
 - herumkommandieren:
     - du kannst mich nicht einfach herumkommandieren
 
-### feind 
-- feind:
-    - der Feind 
-    - er ist der Feind 
-
-- feindselig:
-    - das ist feindselige Umgebung 
-
-- anfeinden:
-    - ich fühle mich angefeindet 
-
-- verfeinden:
-    - Sie sind verfeindet 
-
 ### heizung 
 - Heizung:
     - die Heizung 
@@ -17338,8 +17360,6 @@
 - anheizen:
 - aufheizen:
     - das wird die Stimmung angeheizt 
-
-
 
 ### gammeln &&& derben &&& faul  &&& aktiv
 - gammeln:
@@ -17379,9 +17399,11 @@
 
 - abschirmen:
     - ich wollte ihn gegen etwas abschirmen 
+    - das Licht abschirmen 
 
 - beschirmen:
     - ich wollte ihn beschirmen 
+    - mein augen beschirmen 
 
 ### außen
 - außen vor:
@@ -17447,6 +17469,9 @@
     - ich werde das Gefühl nicht los 
     - du wirst diese Aufgabe nicht los 
 
+- losschießen:
+    - schieß los
+
 ### begehren 
 - begehren:
     - sie sehnt sich danach, von einem Mann begehrt zu werden
@@ -17463,10 +17488,8 @@
 - verehren:
 - anhimmeln:
 
-
 - ehrenamtlich:
     - ich mache es ehrenamtlich
-
 
 ### sphäre 
 - Sphäre:
@@ -17534,7 +17557,6 @@
     - du machst mich konfus
 
 ### motiv
-
 - Motivation: 
 - Auftrieb:
 - Anreiz:
@@ -17614,23 +17636,6 @@
 - schlauchen:
     - das hat mich geschlaucht 
     - ich bin so geschlaucht von dem Tag 
-
-### papier 
-- Papier:
-    - das Papier 
-    - ich brauche einen Stift und ein Papier 
-
-- Zettel:
-    - der Zettel 
-    - ich habe es auf einen Zettel geschrieben 
-
-- Notiz:
-    - die Notiz 
-    - ich mache mir Notizen 
-
-- notieren:
-    - das habe ich mir notiert 
-    - ich muss das mir notieren 
 
 ### reparieren
 - reparieren:
@@ -17908,7 +17913,7 @@
     - der Keller 
     - die Stimmung ist gerade im Keller 
 
-- Keller:
+- Kellner:
     - der Kellner 
     - er arbeitet als Kellner 
 
@@ -17922,11 +17927,6 @@
     - der Korb 
     - ich brauche einen Korb
 
-
-- Krach:
-    - der Krach 
-    - was ist das für ein Krach 
-
 - Knöchel:
     - der Knöchel 
     - mein Knöchel hat verstaucht 
@@ -17939,8 +17939,6 @@
 - Klima:
     - das Klima
     - es herrscht hier gutes Klima 
-
-
 
 - konsistent:
     - es muss aber konsistent bleiben
@@ -17969,6 +17967,15 @@
 - Klingel:
     - die Klingel 
     - drück auf die Klingel 
+
+### krach 
+- Krach:
+    - der Krach 
+    - sie machen Krach 
+    - das war der Krach für mich 
+
+- krachen:
+    - es hat bei uns gekracht 
 
 ### grund 
 - Grund:
@@ -18016,11 +18023,12 @@
 ### fern && eifer
 - fernbleiben:
     - ich bleibe ihm fern 
+    - ich bin der Wahl gerngeblieben
 
 - fernhalten:
     - ich halte mich von ihm fern 
 
-- Fernbedingung:
+- Fernbedienung:
     - die Fernbedingung 
     - ich kann die Fernbedingung nicht finden 
 
@@ -18057,97 +18065,6 @@
 - Fernseher:
     - der Fernseher 
     - ich kaufe einen Fernseher 
-
-### hoch && höhe && breit  && tief && lang
-- hoch:
-    - die Mauer ist 20 Meter hoch 
-    - wie hoch ist die Mauer 
-    - das ist mir zu hoch 
-
-- hohe:
-    - das ist ein hoher Betrag 
-    - mit hoher Wahrscheinlichkeit 
-
-- höhe:
-    - die höhe 
-    - die Höhe eines Bergs
-
-- Augenhöhe:
-    - die Augenhöhe 
-    - wir arbeiten auf Augenhöhe mit den Kunden   
-
-- hochnäsig:
-    - [herabsicht]  [hochmütig] 
-
-- breit:
-    - das ist sehr breiter Fluss
-
-- breite:
-    - die Breite
-    - die Breite des Flusses
-
-- lang:
-    - der Fluss ist 50 Km lang 
-    - das ist ein langer Urlaub 
-
-- Länge:
-    - die Länge 
-
-- tief:
-    - ein tiefes Loch 
-
-- Tiefe:
-    - die Teife 
-
-- Größe:
-    - die Größe 
-    - Er hat ungefähr meine Größe 
-
-- Größenordnung:
-    - ich finde 10% ganz gute Größenordnung 
-
-- quer:
-    - ich bin quer über die Wiesen gelaufen 
-    - ich habe es quer geschnitten 
-
-- längs:
-    - es ist längs geschnitten 
-
-- Kreuz:
-    - das Kreuz 
-
-### lang 
-- langlebig:
-- kurzliebig:
-    - der Akku ist langlebig 
-
-- langatmig:
-    - es ist etwas langatmig [langweilig]
-
-- langfristig:
-    - das ist ein langfristiger Plan 
-
-- längerfristig:
-    - wir müssen längerfristig eine Lösung finden 
-
-- langmütig:
-    - er ist sehr langmütig
-
-### linie 
-- Linie:
-    - die Linie 
-    - in erster Linie 
-    - wir bilden eine Linie 
-    - wir stellen uns auf einer Linie 
-
-- gestrichelte Linie:
-- durchgezogene Linie:
-- Richtlinie:
-    - das ist eine gestrichelte Linie 
-
-- geradlinig:
-    - ich bin geradlinige Person
-
 
 ### mir ist
     - mir ist peinlich 
@@ -18281,6 +18198,16 @@
 - bereinigen:
     - ich wollte das Missverständnis bereinigen 
 
+- einigen:
+    - wir haben uns auf einen Termin geeinigt 
+
+- einig:
+    - wir sind in diesem Punkt einig 
+	- es ist gut dass wir über solche Punkte einig sind
+
+- vereinigen:
+    - wir können uns vereinigen 
+
 ### diff
 - diffamieren:
     - sie versuchen die Muslime zu diffamieren 
@@ -18320,6 +18247,10 @@
     - am Stück
     - ich kann das ein Stück weit verstanden 
     - 3 Stück Küchen 
+
+- Grundstück:
+    - das Grundstück 
+    - ich habe ein Grundstück gekauft 
 
 - abfrühstücken:
     - wir wollen diese Aufgabe schnell abfrühstücken
@@ -18369,12 +18300,12 @@
     - jenseits des Flusses liegt ein kleines Dorf 
 
 - einerseits:
-    - einerseits möchte ich gerne dort wöhnen andererseits kann ich mir das nicht leisten
+    - einerseits möchte ich gerne dort wöhnen andererseits/anderseits kann ich mir das nicht leisten
 
 - meinerseits:
     - ich habe meinerseits nichts dagegen 
 
-- beiderseits:
+- beiderseits / beidseits:
     - dann fällt schlechte Wörter beiderseits 
 
 
@@ -18510,7 +18441,6 @@
 - summieren:
     - kleine dingen summieren sich zu einem Erfolg
     
-
 ### Klusive
 - inklusive:
     - es kostet 10 Euro mehrsteuer inklusive 
@@ -18554,8 +18484,8 @@
     - das Verhalten ist kontraproduktiv 
 
 ### stricken
-- Stricke:
-    - die Stricke 
+- Strick:
+    - der Strick 
     - wenn alle Stricken reißen 
 
 - stricken:
@@ -18664,7 +18594,6 @@
 - zähmen:
 - bezähmen:
     - man kann Wolfe nicht zähmen 
-
     - ich konnte meine Angst bezähmen 
 
 - zügeln:
@@ -18718,13 +18647,26 @@
     - die Stagnation 
     - es kamm zu Stagnation
 
-### fein
+### 
 - fein:
     - es gibt einn feinen Unterschied 
     - das hast du fein gemacht 
 
 - verfeinern:
     - wir habe unsere Arbeitsweise verfeinert 
+
+- feind:
+    - der Feind 
+    - er ist der Feind 
+
+- feindselig:
+    - das ist feindselige Umgebung 
+
+- anfeinden:
+    - ich fühle mich angefeindet 
+
+- verfeinden:
+    - Sie sind verfeindet 
 
 ### ritual 
 - Ritual:
@@ -18871,9 +18813,12 @@
 ### morgen
 - Sekunde:
     - die Sekunde
-    - sekundlich 
-    - zweisekündlich
-    - zweisekündig 
+    - in ener Sekunde
+
+- sekundlich:
+- zweisekündlich
+    
+- zweisekündig
 
 - Minute:
     - die Minute 
@@ -18976,6 +18921,7 @@
 
 ### Kommentar
 - Kommentar:
+    - der Kommentar
     - der Kommentar war sehr klar 
 
 - kommentieren:
@@ -19011,9 +18957,6 @@
 - bespaßen
     - ich habe keine Lust die Kinder zu bespaßen 
 
-
-
-
 ### kommuni 
 - Kommunikation:
     - die Kommunikation 
@@ -19048,66 +18991,6 @@
 - jugendlich:
     - das ist eine jugendliche Art 
 
-### dampf 
-- Dampf:
-    - der Dampf 
-    - ich muss Dampf ablassen 
-    - das hilft beim Dampfablass 
-
-- dampfen:
-    - das Essen dampfen 
-
-- verdampfen:
-    - Wasser verdampft bei 100 c
-
-### schwarm_
-- Schwarm:
-    - der Schwarm 
-    - ein Schwarm Vögel 
-    - es war der Schwarm aller Mädchen 
-
-- schwärmen:
-    - ich schwärme für sie gerade nicht 
-    - sie hat von dem Urlaub geschwarmt 
-
-- anschwärmen:
-    - leute schwärmen ihn an 
-
-- umschwärmen:
-    - man wird heute von Bienen umschwärmt 
-
-- anschwärzen:
-    - ich wollte mich bei dem Chef anschwärzen  
-
-### schwemmen
-- schwemmen:
-    - viele Autos werden ins See geschwemmt 
-
-- abschwemmen:
-    - der Sand wird von der Straßen abgeschwemmt 
-
-- überschwemmen:
-    - der Fluss überschwemmt die Stadt 
-    - sie werden den Markt überschwemmen 
-
-- Überschwemmung:
-    - die Überschwemmung 
-
-- schwappen:
-    - das Wasser schwappt als ich ins Wasser gespringt habe 
-
-- überschwappen:
-    - das Fass ist übergeschwappt
-
-- schwimmen:
-    - sie schwimmt sehr gut 
-
-- verschimmen:
-    - die Erinnerung verschimmt 
-
-- schwammig:
-    - es ist sehr schwammig 
-
 ### arm 
 - arm:
     - er ist sehr arm 
@@ -19130,8 +19013,6 @@
 - es wäre mir lieb
 - mir ist es peinlich 
 - mir ist es recht 
-
-
 
 ### meistern 
 - meistern:
@@ -19311,10 +19192,21 @@
     - die Scheidung
     - die Trennung 
 
-
 ### weit
 - weit:
     - man muss bis weit in Zukunft planen
+    - ich bin so weit dass ich das machen kann [so weit] 
+    - weites Feld 
+    - wie weit ist von hier bis --
+
+- weit weg:
+    - er ist weit weg von hier 
+
+- inwieweit:
+    - inwieweit muss ich das machen 
+
+- weltweit:
+    - weltweit kann man das machen 
 
 - weiterkommen:
     - wir sind mit der Arbeit weitergekommen
@@ -19363,23 +19255,6 @@
 - Staat:
     - der Staat 
 
-### rost 
-- Rost:
-    - der Rost 
-    - der Rost reinigen 
-
-- rosten:
-    - das Auto rostet 
-
-- anrosten: 
-    - das Auto rostet ein 
-
-- durchrosten:
-    - das Auto ist durchgerostet 
-
-- entrosten:
-    - ich werde es entrosten 
-
 ### koll 
 - Kollege:
     - der Kollege 
@@ -19402,7 +19277,10 @@
 
 - kollektiv:
     - das Kollektive Gedächtnis 
-    - kollektivstafung 
+    - kollektivstrafung 
+
+- koperativ:
+    - er ist sehr koperativ 
 
 ### grat 
 - gratis:
@@ -19433,6 +19311,7 @@
 
 - oberfläche:
     - die Oberfläche 
+    - GEfühle kommen an die Oberfläche
 
 ### spinnen
 - spinnen:
@@ -19450,7 +19329,7 @@
     - hast du den Spind aufgebrochen 
 
 ### schnüffeln &&& spionieren 
-- schüffeln:
+- schnüffeln:
     - er schnüffelt in meiner Sache [in+dativ] 
 
 - beschnüffeln:
@@ -19480,13 +19359,6 @@
 
 - Trinkhalm:
     - der Trinkhalm
-
-### hübsch
-- hübsch:
-    - er ist sehr hübsch 
-
-- aufhübschen:
-    - ich werde das Haus aufhübschen 
 
 ### platte 
 - Platte:
@@ -19555,6 +19427,66 @@
 - uneben:
     - die Platte ist uneben 
 
+### dampf 
+- Dampf:
+    - der Dampf 
+    - ich muss Dampf ablassen 
+    - das hilft beim Dampfablass 
+
+- dampfen:
+    - das Essen dampfen 
+
+- verdampfen:
+    - Wasser verdampft bei 100 c
+
+### schwarm_
+- Schwarm:
+    - der Schwarm 
+    - ein Schwarm Vögel 
+    - es war der Schwarm aller Mädchen 
+
+- schwärmen:
+    - ich schwärme für sie gerade nicht 
+    - sie hat von dem Urlaub geschwarmt 
+
+- anschwärmen:
+    - leute schwärmen ihn an 
+
+- umschwärmen:
+    - man wird heute von Bienen umschwärmt 
+
+- anschwärzen:
+    - ich wollte mich bei dem Chef anschwärzen  
+
+### schwemmen
+- schwemmen:
+    - viele Autos werden ins See geschwemmt 
+
+- abschwemmen:
+    - der Sand wird von der Straßen abgeschwemmt 
+
+- überschwemmen:
+    - der Fluss überschwemmt die Stadt 
+    - sie werden den Markt überschwemmen 
+
+- Überschwemmung:
+    - die Überschwemmung 
+
+- schwappen:
+    - das Wasser schwappt als ich ins Wasser gespringt habe 
+
+- überschwappen:
+    - das Fass ist übergeschwappt
+
+- schwimmen:
+    - sie schwimmt sehr gut 
+
+- verschimmen:
+    - die Erinnerung verschimmt 
+
+- schwammig:
+    - es ist sehr schwammig 
+
 ### affe &&& waffe
 - Affe:
     - der Affe 
@@ -19614,6 +19546,22 @@
 - bankrott:
     - er geht bankrott
 
+### papier 
+- Papier:
+    - das Papier 
+    - ich brauche einen Stift und ein Papier 
+
+- Zettel:
+    - der Zettel 
+    - ich habe es auf einen Zettel geschrieben 
+
+- Notiz:
+    - die Notiz 
+    - ich mache mir Notizen 
+
+- notieren:
+    - das habe ich mir notiert 
+
 ### blatt
 - Blatt:
     - das Blatt 
@@ -19628,6 +19576,9 @@
 
 - durchblättern:
     - ich habe den Code nur durchgeblättert 
+
+- überblättern:
+    - ich werde das Kapitel überblättern
 
 - umblättern:
     - ich blättere die Seite um 
@@ -19654,7 +19605,7 @@
 - Bedienungsfehler:
     - der Bedienungsfehler 
 
-- Kommandozeilepargumente
+- Kommandozeileargumente
     - die Kommandozeileargumente 
 
 - Cursor:
@@ -19703,6 +19654,9 @@
 - vorinstallieren:
     - das ist schon auf dem System vorinstalliert 
 
+- neu installieren:
+    - ich werde es neu installieren 
+
 - Pfad:
     - der Pfad 
     - unter folgendem Pfad 
@@ -19735,6 +19689,7 @@
 ### spicken
 - spicken:
     - er hat bei der Prüfung gespickt 
+    - das Essen mit etwas abspicken
 
 - spicker:
     - der Spicker 
@@ -19767,7 +19722,6 @@
 - querdenken:
     - ich habe quergedacht um das Problem zu lösen 
 
-- querlegen:
 - querlegen:
     - alle waren einig aber du musst dich immer querlegen  [sich]
 
@@ -19827,6 +19781,13 @@
 - glattziehen:
     - ich mache den Streit glatt 
 
+### hübsch
+- hübsch:
+    - er ist sehr hübsch 
+
+- aufhübschen:
+    - ich werde das Haus aufhübschen 
+
 ### donnern 
 - donnern:
     - die Kinder haben den Ball an die Wand gedonnert 
@@ -19839,6 +19800,114 @@
 
 - vorbeidonnern:
     - er donnert an uns vorbei
+
+### prallen 
+- prallen:
+- aufprallen:
+    - er prallt mit dem Kopf gegen die Wand 
+
+- prall:
+    - der Reifen ist sehr prall 
+
+- abprallen:_
+- zurückprallen:
+    - der Ball prallt von der Wand ab 
+
+- aufeinanderprallen:
+- gegeneinanderprallen:
+- zusammenprallen:
+    - zwei Autos sind gestern aufeinandergeprallt 
+
+- knallen:
+    - die Maus knallt auf den Boden 
+
+- Knall:
+    - der Knall 
+    - vor einer Woche kam beu uns der große Knall
+
+### putzen
+- putzen:
+- anputzen:
+    - ich muss noch putzen 
+
+- aufputzen:    
+- herausputzen  
+    - ich putze mein Image auf 
+
+- herunterputzen:
+    - er putzt seine Frau herunter 
+
+- Putz:
+    - der Putz 
+
+- verputzen:
+    - ich muss die Wand verputzen 
+
+### rasten:
+- rasten:
+    - ich raste ein bisschen 
+
+- einrasten:
+    - die Tür ist eingerastet 
+
+- ausrasten:
+    - er wird ausrasten wenn er das hört [ausflippen] [durchdrehen]
+
+### rost 
+- Rost:
+    - der Rost 
+    - der Rost reinigen 
+
+- rosten:
+    - das Auto rostet 
+
+- anrosten: 
+    - das Auto rostet ein 
+
+- durchrosten:
+    - das Auto ist durchgerostet 
+
+- entrosten:
+    - ich werde es entrosten 
+
+### schicken 
+- schicken:
+    - schick es bitte an mich 
+    - ich habe ihn nach Milch geschickt 
+    - ich habe ihn nach dir geschickt 
+
+- schick:
+    - er ist sehr schick 
+    - ich mache mich schick
+
+- abschicken:
+- verschicken:
+- zuschicken:
+    - ich habe die Email abgeschickt 
+
+- anschicken:
+    - ich habe mich angeschickt das zu machen [sich] [bereit machen]
+
+- einschicken:
+    - ich werde den Laptop einschicken 
+
+- herumschicken:
+    - Die neuen Mitarbeiter wurden den ganzen Tag durch die verschiedenen Abteilungen herumgeschickt, um alle kennenzulernen 
+
+- mitschicken:  
+    - ich schicke ein Foto mit dem Brief 
+
+- nachschicken:
+    - der Laptop wird später nachgeschickt 
+
+- vorschicken:
+    - wenn ich etwas brauche schickt er seinen Kleinen Brüder vor 
+
+- vorausschicken:
+    - ich werde die Koffer vorausschicken 
+
+- wegschicken:
+    - ich habe ihn weggeschickt 
 
 ### ins
 - ins Augen fallen:
@@ -19891,6 +19960,8 @@
 ### Auto 
 - Stoßstange:
     - die Stoßstange 
+    - vordere Stoßstange 
+    - hintere Stoßstange
 
 - Scheinwerfer:
     - der Scheinwerfer 
@@ -19942,8 +20013,105 @@
 - systematisch:
     - wir müssen es systematisch abhandeln 
 
-### Nummer 
+### hoch && höhe && breit  && tief && lang
+- hoch:
+    - die Mauer ist 20 Meter hoch 
+    - wie hoch ist die Mauer 
+    - das ist mir zu hoch 
 
+- Hochwasser:
+    - das Hochwasser
+
+- hohe:
+    - das ist ein hoher Betrag 
+    - mit hoher Wahrscheinlichkeit 
+
+- höhe:
+    - die höhe 
+    - die Höhe eines Bergs
+
+- Augenhöhe:
+    - die Augenhöhe 
+    - wir arbeiten auf Augenhöhe mit den Kunden   
+
+- hochnäsig:
+    - [herabsicht]  [hochmütig] 
+
+- breit:
+    - das ist sehr breiter Fluss
+
+- breite:
+    - die Breite
+    - die Breite des Flusses
+
+- lang:
+    - der Fluss ist 50 Km lang 
+    - das ist ein langer Urlaub 
+
+- Länge:
+    - die Länge 
+
+- tief:
+    - ein tiefes Loch 
+
+- Tiefe:
+    - die Teife 
+
+- Größe:
+    - die Größe 
+    - Er hat ungefähr meine Größe 
+
+- Größenordnung:
+    - ich finde 10% ganz gute Größenordnung 
+
+- quer:
+    - ich bin quer über die Wiesen gelaufen 
+    - ich habe es quer geschnitten 
+
+- längs:
+    - es ist längs geschnitten 
+
+- Kreuz:
+    - das Kreuz 
+
+### lang 
+- langlebig:
+- kurzliebig:
+    - der Akku ist langlebig 
+
+- langatmig:
+    - es ist etwas langatmig [langweilig]
+
+- langfristig:
+    - das ist ein langfristiger Plan 
+
+- längerfristig:
+    - wir müssen längerfristig eine Lösung finden 
+
+- langmütig:
+    - er ist sehr langmütig
+
+### linie 
+- Linie:
+    - die Linie 
+    - in erster 
+    - wir bilden eine Linie 
+    - wir stellen uns auf einer Linie 
+
+- Leine:
+    - die Leine 
+    - ich nehme die Hund an die Leine 
+    - ich lasse den Hund an der Langen Leine
+
+- gestrichelte Linie:
+- durchgezogene Linie:
+- Richtlinie:
+    - das ist eine gestrichelte Linie 
+
+- geradlinig:
+    - ich bin geradlinige Person
+
+### Nummer 
 - Nummer:
     - die Nummer
     - das ist eine andere Nummer
@@ -19954,7 +20122,7 @@
     - die Hausnummer 
     - das ist eine andere Hausnummer 
 
-- laufende Nummer:
+- laufende Nummer:*
     - so kann man laufende Nummer erstellen 
 
 - nummerieren:
@@ -19969,19 +20137,84 @@
 	- jetzt wird es Zeit das Navi wiede in Betrieb zu nehemen 
 
 - navigieren:
-    - wir kann man hier navigieren
+    - wir kann man hier navigieren 
 
+- Routine:
+	- die Routine
+	- das ist bei mir zur Routine geworden
 
-### FUGENZEICHEN
-- der Sicherheitscode
-- der Gefühlsmensch 
-- das Wartezimmer 
+- Route:
+    - die Route 
+    - welche Route sollen wir einschlagen 
+
+### Profit 
+- Profit:
+    - der Profit 
+    - der Profit war sehr gut 
+
+- profitieren:
+    - wir haben von dieser Arbeit viel profitieren 
+
+- profitabel:
+    - es ist profitabel 
+
+### interpretieren 
+- interpretieren:
+    - das kann man als Frechheit interpretieren 
+
+- fehlinterpretieren:
+    - das wurde fehlinterpretiert 
+
+- reininterpretieren:
+    - kann ich sein dass ich viel reininterpretieren 
+
+### eskalieren 
+- eskalieren:
+    - die Situation konnte weiter eskalieren 
+
+- deeskalieren:
+    - wir wollen die Situation deeskalieren 
+
+### riesig 
+- riesig:
+    - das war ein rieiger Fehler 
+
+- winzig:
+    - das war ein winziger Fehler
+
+### spritz
+- Spritze:
+    - die Spritze
+
+- spritzen:
+    - er hat mir wasser ins Gesicht spritzt  
 
 ##
+- präsent
+- kleinkram 
+- stilvoll
+- Nebeneffekt
+- zusehen
+- Haltung
+- Neutral
+- bei Namen nennen 
+- vorbringen / hervorbringen 
+- übrig 
+- debattieren
+- Ruine
+- apparat
+- unschlüssig 
+- gehaltlos 
+- blutig 
+- konsuliteren 
+- zurrate ziehen 
+- blauäugig 
+- von oben bis unten durch
+- ich mache das fix 
+- simperlich
+**
 
-- bestreiten 
-
-- tilgen:
+- tilge
     - ich will die Schulden tilgen 
 
 - platt:
@@ -19996,8 +20229,6 @@
 - abstrahieren:
     - ich habe versucht das zu abstrahieren
 
-
-
 - sie ist immer te versetzt 
 - den wilden verband
 - wird verlegt wie sie kommt 
@@ -20011,9 +20242,6 @@
 
 
 Pressezensur
-
-
-
 
 - wappentier 
 
@@ -20043,26 +20271,9 @@ Pressezensur
 - sie erzeugen gleichwertigen Code 
 
 
-
-
-
 - Schlitz:_
     - der Schlitz 
     - ich muss die Karte in den Schlitz hineinstecken 
-
-
-
-
-- Routine:
-	- die Routine
-	- das ist bei mir zur Routine geworden
-
-- es
-    - ich habe es eile 
-    - 
-
-
-
 
 - Kabel:
     - das Kabel 
@@ -20192,8 +20403,6 @@ ______________________________________
     - die Blöße 
     - ich werde ihm keine Blöße bieten 
 
-
-
 - Betracht:
     - in Betracht ziehen 
     - in Betracht kommen 
@@ -20258,9 +20467,6 @@ ______________________________________
     - die Lust 
     - ich habe keinen Bock auf soetwas
 
-
-
-
 - Knopf:
     - der Knopf 
     - auf den Knopf drucken 
@@ -20281,8 +20487,6 @@ ______________________________________
 - Kanal:
     - der Kanal
     - das kann über einen gesonderten Kanal gesendet werden
-
-
 
 - Gitter:_
     - das Gitter 
@@ -20335,10 +20539,6 @@ ______________________________________
     - der Müll 
     - das kann man in den Müll werfen 
 
-
-
-
-
 - durchnummerieren:
     - die Seiten sind durchnummeriert 
     
@@ -20359,17 +20559,11 @@ ______________________________________
 
 
 
-
-
 - Termin:
     - der Termin
     - sollten wir einen Termin ausmachen 
     - ich habe um 7 Uhr einen Termin  
     - ich habe den Termin verpasst / eingehalten 
-
-
-
-
 
 - Zelt:
     - das Zelt 
@@ -20383,11 +20577,6 @@ ______________________________________
 - eilig:
     - ich habe es eilig
 
-
-
-
-
-
 - isoliert:
     - das kann man nicht isoliert betrachten 
 
@@ -20395,9 +20584,6 @@ ______________________________________
 
 - abtransportieren:
     - ich wollte den Müll abtransportieren 
-
-
-
 
 - naiv:
     - ich war sehr naiv das zu glauben 
@@ -20422,14 +20608,9 @@ ______________________________________
 	- das ist ein interessantes Projekt
 	- ich werde dieses Projekt rechtzeitig fertig kriegen
 
-
-
 - Kompliment:
 	- das Kompliment
 	- er macht mir ein Kompliment über mein Aussehen
-
-
-
 
 - Bad:
     - das Bad 
@@ -20443,11 +20624,6 @@ ______________________________________
     - er ist sehr lästiger Typ 
     - das ist eine lästige Aufgabe 
 
-- eskalieren:
-    - das könnte zu einem Konflikt eskalieren 
-
-
-
 - kern:
     - der Kern 
     - das ist nicht der Kern der Sache 
@@ -20459,9 +20635,6 @@ ______________________________________
 - fit:
     - ich bin in C++ fit 
 
-
-
-
 - kaputt:
     - es ist kaputt 
     - ich habe mein Auto kaputt gefahren 
@@ -20472,20 +20645,10 @@ ______________________________________
 
 
 
-
-
-
-
 - Wetter:
     - das Wetter 
     - das Wetter war super 
     - das Wetter war beständig
-
-
-
-- Strom:
-	- der Strom 
-	- es hat in Stömen geregnet 
 
 
 
@@ -20498,21 +20661,11 @@ ______________________________________
     - das ist keine Garantie Für Glück
     - das geht immer noch auf Garantie
 
-
-
 - geräumig:
     - es ist sehr geräumig 
 
-
-    
-
-
-
-
 - verdeutlichen:
     - das kann man an einem Beispiel verdeutlichen 
-
-
 
 - Sonne:
     - die Sonne scheint 
@@ -20522,16 +20675,9 @@ ______________________________________
     - die EU 
     - ich arbeite in der EU 
 
-
-
-
-
-
 - träge:
     - der Markt ist sehr träge 
 	- ich war träge und ich konnte nich schnell genug reagieren
-
-
 
 - Himmelsrichtung:
     - die Himmelsrichtung 
@@ -20551,8 +20697,6 @@ ______________________________________
 - Wüste:
     - die Wüste 
     - es ist eine große Wüste 
-
-
 
 - Hinterkopf:
     - der Hinterkopf
@@ -20670,8 +20814,6 @@ ______________________________________
 - abwegig:
     - die Situation ist absurd 
 
-
-
 - Boulevard:
     - der Boulevard 
 
@@ -20760,15 +20902,8 @@ ______________________________________
 - vorlauf
 - ich bin satt 
 
-
-
-
-
 - verspannt 
 
-
-
-  
 - blauäugig 
 - mir sind die Hände gebunden 
 
@@ -20779,8 +20914,6 @@ ______________________________________
 - ich bin im training 
 - du kommst mir gerade recht 
 - ausrutscher 
-
-
 
 - gebrauchsanleitung 
 
@@ -20817,9 +20950,6 @@ ______________________________________
     - das ist mir ganz wurscht 
 	- was für ein Auto ich fahre ist mir total wurscht, habe sache es bringt mich von A nach B
 
-
-
-
 - Tasche:
     - die Tasche 
     - ich muss tief in die Tasche greifen 
@@ -20828,14 +20958,9 @@ ______________________________________
     - das Gepäck
     - ich muss mein Gepäck auspacken
 
-
-
 - Pechvogel:    
     - der Pechvogel 
     - er ist ein Pechvogel 
-
-
-
 
 - ausmisten:_
 
@@ -20865,13 +20990,6 @@ ______________________________________
     - der Bart 
     - ich lasse mir meinen Bart stehen / wachsen
 
-
-
-
-
-
-
-
 - Gelegenheit:
     - die Gelegenheit 
     - das ist sehr gute Gelegenheit um das zu machen 
@@ -20879,16 +20997,6 @@ ______________________________________
     - bei passender Gelegenheit 
 
 
-
-
-
-
-
-
-
-- Verstoß:
-    - der Verstoß 
-    - das ist ein Verstoß gegen die Regel 
 
 
 
@@ -21638,11 +21746,6 @@ ______________________________________
     - das Land 
     - auf dem Land, auf das Land, vom Land 
 
-- Leine:
-    - die Leine 
-    - ich nehme die Hund an die Leine 
-    - ich lasse den Hund an der Langen Leine
-
 - zusammenfassung:
     - die Zusammenfassung 
     - in der Zusammenfassung, in die Zusammenfassung, aus der Zusammenfassung 
@@ -22379,6 +22482,7 @@ einundzwanzig, dreißig, vierzig,fünfzig,sechzig,siebzig
     - zwei unterschiedliche dingen ich habe mit beidem arbeiten
     - zwei ähnliche dingen ich habe mit beiden arbeiten
     - karrier oder familie? beides ist möglich
+    - Welche Antwortmöglichkeiten sind richtig?“ – „Beide sind möglich.
 
 
 ### all
