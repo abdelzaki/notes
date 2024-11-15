@@ -3407,6 +3407,20 @@
 - leichttun:
     - ich habe mich mit dieser Aufgabe schwergetan
 
+### leicht 
+- leicht:
+    - ich kann das tragen, es ist relativ leicht 
+
+- leichtgläubig:
+    - ich war vielleicht leichtgläubig 
+
+- erleichern:
+    - das erleichert uns die Arbeit 
+
+- Erleichterung:
+    - die Erleichterung 
+    - das ist eine Erleichterung 
+
 ### tragen
 - Beitrag:
 - Eintrag:
@@ -4736,28 +4750,6 @@
     - die Zeile
     - die Spalte 
 
-### haften
-- haften:
-    - die Eltern haften für die Kinder 
-    - das haftet gut auf der Hand
-    - es bleibt Gut auf der Wand haften 
-
-- verhaften:
-    - er wird von der Polizei verhaftet
-
-- anhaften:
-    - das wird dir dein ganz Leben anhaften 
-
-- haftenbleiben:
-    - das bleibt haften 
-
-- Haft:
-    - die Haft 
-    - in Haft nehmen
-
-- behaftet: 
-    - das ist Risikobehaftet 
-
 ### lenken 
 - einlenken:_
     - ich weiss dass du bestimmt einlenken wirst [nachgeben,kleinbeikommen]
@@ -4835,6 +4827,13 @@
 - Anhang:
     - der Anhang 
     - das kannst du im Anhang finden 
+
+- Hang:
+    - der Hang
+    - ich habe den Hang zur Übertreibung
+    - ich bin den Hang hochgegangen
+    - das Haus ist an einen Hang gebaut
+    - das Haus steht an einem Hang
 
 - Anhänger:
     - der Anhänger 
@@ -7518,7 +7517,11 @@
 
 - ausholen:
     - ich hole weit aus
-    - ich muss weiter ausholen
+    - ich muss weiter ausholen 
+
+- herausholen:
+    - ich verusche die Beste herausholen 
+    - Zeit rausholen
 
 - hereinholen:
 - herausholen:
@@ -7615,7 +7618,10 @@
     - Kann man das Risiko nicht irgendwie begrenzen? 
 
 - Grenzwertig:
-    - das ist grenzwertig
+    - das ist grenzwertig 
+
+- Limit:
+    - das Limit 
 
 ### sparen 
 - sparen:
@@ -7644,6 +7650,11 @@
 - Ersparnis:
     - die Ersparnis 
     - ich habe meine Ersparnis aufgebraucht 
+
+- Erspartes:
+    - das Erspartes 
+    - wie kann ich mein Erspartes retten 
+
 
 - Sparsam:
     - er ist sehr Sparsam 
@@ -7858,111 +7869,6 @@
     - alles ist schon geregelt  [arrangieren]
     - der Blutdruck regelt sich 
     - dann ergelt sich der Rest von alleine 
-
-### denken
-- denken:
-    - ich hätte das nicht von dir gedacht 
-    - ich habe an dich gedacht 
-    - ja das hätte ich mir auch denken können 
-    - was hast du dir dabei gedacht 
-
-- Andenken:
-    - das Andenken 
-    - ich habe es als Andenken an meine Kinderheit aufgehoben 
-
-- andenken:
-    - das Projekt ist schon angedacht aber noch nicht gestartet 
-    - wir müssen neue Stragtie andenken
- 
-- ausdenken:
-	- ich muss mir etwas neues ausdenken 
-
-- bedenken:
-	- ich muss die Folgen noch einmal bedenken
-	- ich denke an die Folgen 
-
-- bedacht:
-    - er ist immer auf seine Vorteile bedacht 
-
-- Bedenken:
-    - das Bedenken 
-    - ich habe Bedenken das zu machen
-
-- Gedanke:
-    - der Gedanke 
-    - der Gedanke ist sehr gut 
-    - ich mache mir Gedanken zu uns 
-    - in Gedanken
-
-- hineindenken:
-    - ich versuche mich in seine Situation hineindenken 
-
-- nachdenken:
-    - ich denke darüber nach 
-    - lass mich nachdenken
-
-- überdenken:
-    - ich habe die Entscheidung überdacht 
-
-- vorbedenken:
-    - das soll ich vorbedacht haben 
-
-- durchdenken:
-    - ich habe den Plan durchdacht 
-
-- zudenken:
-    - dieses Geschenk habe ich dir zugedacht 
-
-- zurückdenken:
-    - ich denke viel an unsere Zeit zurück 
-
-- verdenken:    
-    - ich kann ihm das nicht verdenken dass er ungeduldig ist [übelnehemn]
-
-- Verdacht:
-    - der Verdacht 
-    - wir haben ihn im Verdacht 
-
-- leichtfertig:
-- bedenkenlos:
-    - das kann ich nicht so leichtfertig machen 
-
-- umdenken:
-    - ich habe umgedacht 
-    - ich muss umdenken 
-
-- wegdenken:
-    - chatgpt lässt sich kaum wegdenken 
-    - ich kann mir den Bart wegdenken  
-
-### danken
-- danken:
-    - ich danke dir für deine Einladung 
-
-- bedanken:
-    - ich bedanke mich bei dir 
-
-- verdanken:
-    - ich habe dir zu verdanken dass wir jetzt einen Job habe 
-    - ich verdanke ihm alles 
-
-- Dank:
-    - der Dank 
-    - ich mache das als Dank für deine Hilfe
-
-### erinneren 
-- Erinnerung:
-    - die Erinnerung 
-    - ich habe das nicht in Erinnerung 
-    - ich habe es als Erinnerung an dich aufgehoben 
-
-- erinnern:
-    - ich kann mich daran nicht erinnern 
-    - ich wollte ihn an seine Wörter erinnern 
-
-- Gedächtnis:
-    - das Gedächtnis 
-    - ich habe kein gutes Gedächtnis mehr 
 
 ### lässig
 - lässig:
@@ -10086,6 +9992,10 @@
 
 
 ### still
+- Stil: 
+    - der Stil 
+    - er hat einen guten Stil
+
 - stillstand:
     - der Stillstand 
     - wir sind zum stillstand gekommen 
@@ -11174,6 +11084,111 @@
 - gewollt:
     - das ist aber nicht gewollt
 
+### denken_
+- denken:
+    - ich hätte das nicht von dir gedacht 
+    - ich habe an dich gedacht 
+    - ja das hätte ich mir auch denken können 
+    - was hast du dir dabei gedacht 
+
+- Andenken:
+    - das Andenken 
+    - ich habe es als Andenken an meine Kinderheit aufgehoben 
+
+- andenken:
+    - das Projekt ist schon angedacht aber noch nicht gestartet 
+    - wir müssen neue Stragtie andenken
+ 
+- ausdenken:
+	- ich muss mir etwas neues ausdenken 
+
+- bedenken:
+	- ich muss die Folgen noch einmal bedenken
+	- ich denke an die Folgen 
+
+- bedacht:
+    - er ist immer auf seine Vorteile bedacht 
+
+- Bedenken:
+    - das Bedenken 
+    - ich habe Bedenken das zu machen
+
+- Gedanke:
+    - der Gedanke 
+    - der Gedanke ist sehr gut 
+    - ich mache mir Gedanken zu uns 
+    - in Gedanken
+
+- hineindenken:
+    - ich versuche mich in seine Situation hineindenken 
+
+- nachdenken:
+    - ich denke darüber nach 
+    - lass mich nachdenken
+
+- überdenken:
+    - ich habe die Entscheidung überdacht 
+
+- vorbedenken:
+    - das soll ich vorbedacht haben 
+
+- durchdenken:
+    - ich habe den Plan durchdacht 
+
+- zudenken:
+    - dieses Geschenk habe ich dir zugedacht 
+
+- zurückdenken:
+    - ich denke viel an unsere Zeit zurück 
+
+- verdenken:    
+    - ich kann ihm das nicht verdenken dass er ungeduldig ist [übelnehemn]
+
+- Verdacht:
+    - der Verdacht 
+    - wir haben ihn im Verdacht 
+
+- leichtfertig:
+- bedenkenlos:
+    - das kann ich nicht so leichtfertig machen 
+
+- umdenken:
+    - ich habe umgedacht 
+    - ich muss umdenken 
+
+- wegdenken:
+    - chatgpt lässt sich kaum wegdenken 
+    - ich kann mir den Bart wegdenken  
+
+### danken
+- danken:
+    - ich danke dir für deine Einladung 
+
+- bedanken:
+    - ich bedanke mich bei dir 
+
+- verdanken:
+    - ich habe dir zu verdanken dass wir jetzt einen Job habe 
+    - ich verdanke ihm alles 
+
+- Dank:
+    - der Dank 
+    - ich mache das als Dank für deine Hilfe
+
+### erinneren 
+- Erinnerung:
+    - die Erinnerung 
+    - ich habe das nicht in Erinnerung 
+    - ich habe es als Erinnerung an dich aufgehoben 
+
+- erinnern:
+    - ich kann mich daran nicht erinnern 
+    - ich wollte ihn an seine Wörter erinnern 
+
+- Gedächtnis:
+    - das Gedächtnis 
+    - ich habe kein gutes Gedächtnis mehr
+
 ### fressen
 - fressen:
   - die Aufgabe frisst viel Zeit
@@ -11206,6 +11221,12 @@
 
 - überessen:
     - ich habe es übergegessen 
+
+- wegessen:
+    - er hat mir den Schkolade weggegessen
+
+- mitessen:
+    - ich esse auch die Schale mit 
 
 - Essen:
     - das Essen 
@@ -11623,7 +11644,7 @@
     - wenn er wütend ist, haut er einfach zu 
     - ich werde den Stein zu Qudarn zuhauen 
 
-- umhauen: ( umwerfen)
+- umhauen: (umwerfen)
     - er hat mich umgehauen 
     - die Rechnung hat mich umgehauen [überrascht]
 
@@ -11902,16 +11923,16 @@
 - mitzählen:
     - ich habe die Kinder nicht mitgezählt 
 
-### schmeißen
+### schmeißen*
 - schmeißen:
     - sie hat ihn geschmissen 
     - ich werde eine Party schmeißen 
 
-- aufgeschmissen:
+- aufgeschmissen:_
     - ohne dich wäre ich totall aufgeschmissen 
 
-- nachschmeißen:
-    - wir haben die Ware nachgeschmissen [nachwerfen]
+- nachschmeißen:_
+    - wir haben die Ware nachgeschmissen bekommen[nachwerfen]
 
 - umscheimßen:
     - ich habe das Glas umgeschmissen 
@@ -12221,6 +12242,12 @@
     - die Schwäche
     - ich habe eine Schwäche für Autos
 
+- lähmen:
+    - das lähmt die Gesellschaft 
+
+- schwächeln:   
+    - die Wirschaft schwächelt 
+
 ### fühlen
 - fühlen:
     - ich fühle mich langsam 
@@ -12317,6 +12344,11 @@
 - Hass:
     - der Hass 
 
+### sondieren 
+- sondieren:
+- ausloten:
+    - ich will die Lage sondieren 
+
 ### spüren 
 - spüren:
     - ich spüre deinen schmerzen 
@@ -12325,11 +12357,15 @@
     - ich verspüre nichts, Hunger, den Wunsch
 
 - nachspüren:
-    - Sie spürte ihren Emotionen nach, um sie besser zu verstehen 
+    - ich will diesen Ort nachspüren
 
 - gespür:
     - das Gespür 
     - ich habe Gespür für soetwas
+
+- fahrspur:
+    - die Fahrspur 
+    - ich weschle die Wahrspur 
 
 - Abdruck:_ 
 - Spur:
@@ -12357,70 +12393,7 @@
 - verschlucken:
     - ich habe eine Insekt verschluckt 
     - ich schlücke die Wörter 
-    - ich habe mich beim dem Essen an Brot verschluckt und ich kann nicht mehr atmen
-
-### springen 
-- springen:
-    - ich werde ins Wasser springen
-    - er ist gesprungen 
-
-- Sprung:
-    - der Sprung 
-
-- Ursprung:
-    - der Urspung  
-    - er ist der Urspung 
-
-- abspringen:
-    - er ist von der Bahn abgesprungen 
-    - Kurz vor Ziel abspringen 
-
-- anspringen:
-    - der Motor / das Auto springt nicht an
-    - der Hund hat mich angesprungen
-    - er ist auf mein Angebot abgesprungen 
-
-- aufspringen:
-    - er springt auf die Bahn auf 
-
-- einspringen:
-    - sie hat für mich eingesprungen [ablösen] 
-
-- entspringen:
-    - Nile entsprint aus Sudan 
-
-- überspringen:
-    - wir überspringen den nächsten Punkt 
-
-- umspringen:
-    - die Ampel springt auf Rot um 
-
-- vorspringen:
-- zurückspringen:
-    - spring vor 
-
-- vorsprung:
-    - der Vorsprung 
-
-- sprengen:
-    - das sprengt den Rahmen diesr Aufgabe
-
-### Ort 
-- orientieren:
-    - ich muss mich erst in der Stadt orientieren 
-    - ich orientiere mich nach / am ihm 
-
-- umorientieren:
-    - ich habe mich umorientiert 
-
-- verorten:_
-    - ich kann die Änderung nicht verorten
-
-- Ort:
-    - der Ort 
-    - das ist nicht der richtige Ort 
-	- am gleichen Ort 
-    - Ortswechsel 
+    - ich habe mich beim dem Essen an einem Brot verschluckt und ich kann nicht mehr atmen
 
 ### stören 
 - stören:
@@ -12442,8 +12415,8 @@
     - mein Auto hat eine Störung 
 
 ### harren
-- harren:
-    - ich harre der Dinge, die auf mich zukommen werden [warten]
+- harren: 
+    - ich harre der Dinge, die auf mich zukommen werden [warten] [lauern]
 
 - ausharren:
     - ich muss nur ausharren (Geduld haben) 
@@ -12495,7 +12468,6 @@
 
 - einbrocken:
     - das hast du dir eingebrockt
-
 
 ### dehnen
 - dehnen:
@@ -12555,6 +12527,7 @@
 ### schleißen
 - verschleißen:
     - er verschleißt viele Kleidung 
+    - es verschleißt schnell 
 
 - zerschleißen:
     - zerschlissene Kleider 
@@ -12695,7 +12668,6 @@
 - strafbar:
     - das ist aber Strafbar
 
-
 ### pumpen 
 - pumpen:
     - ich muss Luft in den Reifen pumpen 
@@ -12777,7 +12749,7 @@
     - ich bin kopfüber ins Wasser gestürzt 
     - er hat seinen Opfer von der Brücke gestürzt 
     - ich stürze mich auf die Aufgabe [sich]
-    - ich bin über meine eigenen Fehler gestürzt 
+    - ich bin über meine eigenen Fehler gestürzt [stolpern]
 
 - Sturz:
     - der Sturz 
@@ -12786,9 +12758,11 @@
 - abstürzen:
 - abschmieren
     - das Programm stürzt ständig ab 
+    - der Ballon stürtz ab
 
 - Abstruz:
-    - der Absturz 
+    - der Absturz  
+    - das hat den Kompuer zum Absturz gebracht 
 
 - einstürzen:
 - zusammenstürzen:
@@ -12804,7 +12778,6 @@
 
 - zustürzen:
     - sie stürzen auf den Eingang zu
-
 
 ### stützen 
 - stützen:
@@ -12854,6 +12827,9 @@
 - schmerzhaft:
     - die Verletzung war seht schmerzhaft
 
+- schmerzlindernd
+- schmerzstillend
+
 ### pflegen
 - pflegen:
     - ich muss meine Mutter pflegen 
@@ -12868,6 +12844,7 @@
 - wachsen:
     - ich bin der Aufgabe nicht gewachsen 
     - er wächst jeden tag 
+    - die Aufgabe ist mir über den Kopf gewachsen 
 
 - anwachsen:
     - die Schulden wachsen an 
@@ -12876,8 +12853,10 @@
     - ich bin dort aufgewachsen 
 
 - auswachsen:
+- heranwachsen:
     - er hat sich zum einem Mann ausgewachsen 
     - es hat sich zum einem Problem ausgewachsen
+    - das Tier ist ausgewachsen [wird nicht mehr wachsen]
 
 - erwachsen:
     - du bist aber erwachsen 
@@ -13020,7 +12999,8 @@
     - ich werde unermüdlich tranieren 
 
 - ermüdend:
-    - das Training ist ermüdend [anstrengend]
+    - das Training ist ermüdend [anstrengend] [beschwerlich]
+
 
 - fix und fertig 
 - K.o
@@ -13028,6 +13008,8 @@
 - ich bin gerädert
 - abgeschlafft 
 - ausgepowert sein
+- geschlaucht 
+- ausgelaugt
 
 
 ### eignen 
@@ -13127,7 +13109,7 @@
 - Wohnung:
     - die Wohnung
 
-### bohren
+### bohren*
 - bohren:
     - sie bohren nach Öl 
 
@@ -13155,13 +13137,41 @@
     - die beiden Termine überlappen sich Zeitlich 
     - es gibt Überlappung 
 
+### haften
+- haften:
+    - die Eltern haften für die Kinder 
+    - das haftet gut auf der Hand
+    - es bleibt Gut auf der Wand haften 
+
+- verhaften:
+    - er wird von der Polizei verhaftet
+
+- anhaften:
+    - das wird dir dein ganz Leben anhaften 
+
+- haftenbleiben:
+    - das bleibt haften 
+
+- Haft:
+    - die Haft 
+    - in Haft nehmen
+
+- behaftet: 
+    - das ist Risikobehaftet 
+
 ### heften 
+- Heft:
+    - das Heft 
+    - ich brauche ein Heft
+
 - heften:
-    - ich heft das Poste an die Wand
+- anhefen:
+    - ich heft das Poste an die Wand 
 
 - abheften:
 - einheften:
-    - ich heft die Rechnung ab 
+    - ich hefte das an das an
+    - ich heft die Rechnung ein 
 
 - beiheften:
     - einer Akte eine Notiz beiheften 
@@ -13216,7 +13226,7 @@
 - Gewiss:
     - ich bin mir gewiss dass du es schaffen kannst 
 
-- ungewiss:
+- ungewiss:_
     - es ist ungewiss ob er das schaffen kann 
 
 - Gewissheit:
@@ -13257,6 +13267,9 @@
 - umkreisen:
     - die Erde umkreist die Sonne [umlaufen]
 
+- Umkreis:
+    - der Umkreis
+
 - einkreisen:
     - wir haben das Problem eingekreist  
 
@@ -13293,10 +13306,82 @@
     - die Jagd
     - ich gehe auf die Jagd  
 
+### Ort 
+- orientieren:
+    - ich muss mich erst in der Stadt orientieren 
+    - ich orientiere mich nach / am ihm 
+
+- umorientieren:
+    - ich habe mich umorientiert 
+
+- verorten:_
+    - ich kann die Änderung nicht verorten
+
+- Ort:
+    - der Ort 
+    - das ist nicht der richtige Ort 
+	- am gleichen Ort 
+    - Ortswechsel 
+
+### springen 
+- Sprung:
+    - der Sprung 
+    - das ist ein Sprung  
+
+- auf dem Sprung sein:
+    - ich war auf dem Sprung dich anzurufen [im Begriff]
+    - ich bin gerade auf dem Sprung 
+
+- Spring ins ungewisse:
+    - das ist ein Sprung ins ungewisse 
+
+- springen:
+    - ich werde ins Wasser springen
+    - er ist gesprungen 
+
+- Ursprung:
+    - der Urspung  
+    - er ist der Urspung 
+
+- abspringen:
+    - er ist von der Bahn abgesprungen 
+    - Kurz vor Ziel abspringen 
+
+- anspringen:
+    - der Motor / das Auto springt nicht an
+    - der Hund hat mich angesprungen
+    - er ist auf mein Angebot abgesprungen 
+
+- aufspringen:
+    - er springt auf die Bahn auf 
+
+- einspringen:
+    - sie hat für mich eingesprungen [ablösen] 
+
+- entspringen:
+    - Nile entsprint aus Sudan 
+
+- überspringen:
+    - wir überspringen den nächsten Punkt 
+
+- umspringen:
+    - die Ampel springt auf Rot um 
+
+- vorspringen:
+- zurückspringen:
+    - spring vor 
+
+- vorsprung:
+    - der Vorsprung 
+
+- sprengen:
+    - das sprengt den Rahmen diesr Aufgabe
+
 ### wage 
 - wagen:
     - ich wage es nicht, ihm zu widersprechen
     - ich wage mich an diese Aufgabe
+    - den Schritt / Sprung wagen 
 
 - Wagen:
     - der wagen 
@@ -13334,6 +13419,18 @@
     - nach Jemandes Sinn 
     - das erste das mir in den Sinn kommt 
     - was hast du mit soetwas im Sinn 
+
+- sinnvoll:
+- sinnlos:
+    - es ist sinvoll mit ihm zu reden 
+
+- leichtsinn:
+    - das ist lwichtsinn 
+
+- wahnsinnig:
+    - wahnsinnig 
+    - das ist aber wahnsinnig 
+
 
 - besinnen:
 - entsinnen:
@@ -13753,7 +13850,6 @@
 - enthüllen:
     - ich enthülle mein Geheimnis 
 
-
 - umhüllen:
     - das ümhüllt den Körper 
 
@@ -13761,6 +13857,10 @@
     - ich habe das verhüllen 
 
 ### packen 
+- packen:
+    - wir können diese Aufgabe packen  
+    - es hat mich gepackt 
+
 - abpacken:
     - ich packe das Essen ab 
 
@@ -13867,8 +13967,6 @@
 - aufblähen:
     - wenn wir alles schreiben werden, wird es aufblähen 
 
-
-
 ### dauern
 - dauern:
     - es dauert 2 Stunden 
@@ -13918,7 +14016,6 @@
 - Recht:
     - das Recht 
     - du hast Recht auf ein freies Land 
-
 
 - gerecht:
     - es ist nicht gerecht wenn ich das immer alleine machen 
@@ -14387,6 +14484,10 @@
     - die Flucht 
     - er ist auf Flucht 
 
+- Zuflucht:
+    - die Zuflucht 
+    - das ist eine gute Zuflucht 
+
 - Fluchtartig:
     - er hat Fluchtartig das Zimmer verlassen 
 
@@ -14563,6 +14664,25 @@
     - er verkrampt sich wenn Frauen das sind 
     - verkrampfte Muskeln 
 
+- Kram:
+    - der Kram 
+    - das passt in dem Kram 
+
+- Kinderkram:
+- familienkram:
+    - der Kinderkram 
+    - das ist kein Kinderkram 
+
+- Papierkram:
+    - der Papierkram 
+    - ich muss viel Papierkram erledigen 
+
+- kramen:
+    - er beginnt in der Schublade zu kramen 
+
+- hervorkramen:
+    - ich wollte nicht die alte Erinnerungen hervorkramen 
+
 ### locken
 - Locker:
     - er ist ein lockerer Type 
@@ -14601,6 +14721,10 @@
 ### probieren
 - probieren:
     - hast du diesen Tee probiert 
+
+- Probe:
+    - die Probe 
+    - ich kann das auf die Probe stellen
 
 - anprobieren:
     - ich probiere die Schuhe an 
@@ -14744,7 +14868,10 @@
 ### kitzeln &&& picken &&& prickeln 
 - kitzeln:
     - das kitzelt mich 
-    - ich habe ihn gekitzelt
+    - ich habe ihn gekitzelt 
+
+- herauskitzeln:
+    - ich habe viele Info aus ihm herausgekitzelt 
 
 - prickeln:
     - es prickelt mich
@@ -14754,6 +14881,9 @@
 
 - rauspicken:
     - wir haben die beste rausgepickt 
+
+- piksen:
+    - ich habe mich an etwas gepikset
 
 ### härten 
 - abgehärtet:
@@ -15218,6 +15348,9 @@
     - es gehört sich nicht, hier zu reden
     - das gehört mir 
 
+- hinhören:
+    - ich habe nicht hingehört als er das gesagt 
+
 - hingehören:
     - das gehört einfach nicht hin
 
@@ -15233,6 +15366,7 @@
 
 - heraushören:
     - ich habe aus seiner Ton herausgehört dass er wütend ist 
+    - ich habe deine Stimme herausgehört 
 
 ### streiten
 - umstritten:   
@@ -16730,6 +16864,10 @@
     - ich habe ihn gefragt, ich bin abgeblitzt 
     - ich habe ihn abblitzen lassen 
 
+- Schlitz:_
+    - der Schlitz 
+    - ich muss die Karte in den Schlitz hineinstecken 
+
 - aufblitzen:
     - das Licht hat aufgeblitzt 
 
@@ -17509,6 +17647,13 @@
     - die Atmoshpäre hier ist sehr gut [Umfeld] 
 
 ### kon
+- Kondition:
+    - die Kondition 
+    - ich habe gute Kondition
+
+- konsultieren:
+    - ich werde einen Artz konsultieren 
+
 - kontrollieren:
     - ich habe es zwei mal kontrolliert 
 
@@ -18208,6 +18353,9 @@
 - vereinigen:
     - wir können uns vereinigen 
 
+- vereinen:
+    - es ist nicht einfach die beiden Lösungen mit einander zu vereinen
+
 ### diff
 - diffamieren:
     - sie versuchen die Muslime zu diffamieren 
@@ -18647,7 +18795,7 @@
     - die Stagnation 
     - es kamm zu Stagnation
 
-### 
+### fein
 - fein:
     - es gibt einn feinen Unterschied 
     - das hast du fein gemacht 
@@ -19256,6 +19404,9 @@
     - der Staat 
 
 ### koll 
+- kollidieren:
+    - der Termin kollidiert mit einem anderen Termin
+
 - Kollege:
     - der Kollege 
     - er ist ein Kollege von mir 
@@ -19373,6 +19524,11 @@
 - Festplatte:
     - die Festplatte 
     - auf der Festplatte
+
+- platt:
+    - der Reifen ist Platt 
+    - ich habe einen Platt [Reife ist platt] 
+    - ich bin platt [schockiert]
 
 - Brett:_
 	- das Brett
@@ -20183,72 +20339,60 @@
     - das war ein winziger Fehler
 
 ### spritz
+- Sprit:
+    - der Sprit [benzin]
+
 - Spritze:
     - die Spritze
 
 - spritzen:
     - er hat mir wasser ins Gesicht spritzt  
 
-##
-- präsent
-- kleinkram 
-- stilvoll
-- Nebeneffekt
-- zusehen
-- Haltung
-- Neutral
-- bei Namen nennen 
-- vorbringen / hervorbringen 
-- übrig 
-- debattieren
-- Ruine
-- apparat
-- unschlüssig 
-- gehaltlos 
-- blutig 
-- konsuliteren 
-- zurrate ziehen 
-- blauäugig 
-- von oben bis unten durch
-- ich mache das fix 
-- simperlich
-**
+### präsent
+- präsent:
+    - man muss präsent sein 
 
-- tilge
-    - ich will die Schulden tilgen 
+- präsentieren:
+    - ich werde das heute präsentieren 
 
-- platt:
-    - der Reifen ist Platt 
+### übrig
+- übrig:
+    - alles Übrige machen wir morgen 
+    - von Essen sind nichts übrig geblieben 
+    - sind wir durch oder ist noch jemand übrig 
+    - ist noch Saft übrig 
+    - die übrigen Aufgaben machen wir morgen 
 
-- prägnant:
-    - der Text soll prägnant sein 
+### ruine 
+- ruinieren:
+    - er hat mein Leben ruiniert 
 
-- absorbieren:
-    - das absorbiert das Licht 
+- ruine:
+    - die Ruine
+    - die Ruine des Hauses 
 
+### fix 
+- fix:
+    - ich mache das fix
+
+- fixieren:
+    - ich werde es fixieren 
+
+### tahieren 
 - abstrahieren:
-    - ich habe versucht das zu abstrahieren
+    - wir abstrahieren diese Funktion 
+    - aus den Fakten eine Regel abstrahieren
 
-- sie ist immer te versetzt 
-- den wilden verband
-- wird verlegt wie sie kommt 
-- kombination 
-- es war kein Sprint
-- rennen 
-- Marke Eigenbau 
-- wöhnlich 
-- der Hammer 
-- Erspartes 
+- abstrakt:
+    - das ist alles sehr abstrakt 
 
+- extrahieren:
+    - ich werde alles extrahieren
 
-Pressezensur
+- konkret:
+    - hast du schon konkrete Pläne 
 
-- wappentier 
-
-- Brauch 
-
-- Gewalt
-
+### halb 
 - Hälfte:
     - die Hälfte 
     - ich habe die Arbeit zur Hälfte erledigt 
@@ -20259,22 +20403,34 @@ Pressezensur
     - das ist zum halben Preis 
     - ich mache keine halben Sache
 
-- Kilo:
-    - das Kilo 
-    - halbes Kilo 
-    - anderthalb Kilo 
-
 - halbieren:
     - mit dem Computer können wir unsere Kosten halbieren 
-    
-- das ist der Einstiegspunkt eines Programms
-- sie erzeugen gleichwertigen Code 
+
+### fies 
+- fies:
+    - er war immer zu fies zu mir 
+    - das ist aber fies 
+
+- mies:
+    - es war mieses Wetter 
 
 
-- Schlitz:_
-    - der Schlitz 
-    - ich muss die Karte in den Schlitz hineinstecken 
 
+**
+
+- zeitversetzt 
+- reinstecken
+- auf sich gestellt 
+- mit auf den weg
+- hineindenken
+- es floppt halt
+- konsumieren
+- animieren
+- tuscheln 
+- ich bin in Schuhe unterwegs
+
+______________________________________
+###
 - Kabel:
     - das Kabel 
 
@@ -20288,6 +20444,7 @@ Pressezensur
 
 - gemächlich:
     - er joggt sehr gemächlich
+
 - Geschirr:
     - das Geschirr 
     - ich spühle das Geschirr
@@ -20296,30 +20453,19 @@ Pressezensur
     - der Teller
     - ich hatte einen Nudeln Teller 
 
-
-
-
 - Detail:
     - das Detail
     - ich will nicht in die Details gehen
     - ins Datail gehen
     - ich will vermeiden das wir in Details vertiefen
 
-- Hang:
-    - der Hang
-    - ich habe den Hang zur Übertreibung
-    - ich bin den Hang hochgegangen
-    - das Haus ist an einen Hang gebaut
-    - das Haus steht an einem Hang
+
 
 - Boden:
     - der Boden
     - stelle es bitte auf den Boden
     - es ist auf dem Boden 
 
-- fies:
-    - er war immer zu fies zu mir 
-    - das ist aber fies 
 
 - Vorliebe:
     - die Vorliebe
@@ -20330,8 +20476,6 @@ Pressezensur
     - ich kann nirgendwo fahren, weil mein Auto eine Panne hat 
 
 
-______________________________________
-###
 - Medikament:
     - das Medikament 
     - ich nehme keine Medikamente ein 
@@ -20361,8 +20505,7 @@ ______________________________________
     - der Automat
     - das kannst du am Automaten kaufen 
 
-- mies:
-    - es war mieses Wetter 
+
 
 - Kamm:
     - der Kamm 
@@ -20414,12 +20557,7 @@ ______________________________________
 - Brei:_
     - ich will nicht um den heißen Brei reden 
 
-- übrig:
-    - alles Übrige machen wir morgen 
-    - von Essen sind nichts übrig geblieben 
-    - sind wir durch oder ist noch jemand übrig 
-    - ist noch Saft übrig 
-    - die übrigen Aufgaben machen wir morgen 
+
 
 - gleichwertig:
     - Sie sind gleichwertig und austauschbar 
@@ -20756,9 +20894,7 @@ ______________________________________
 - dankbar:
     - ich bin dir sehr dankbar 
 
-- Erspartes:
-    - das Erspartes 
-    - wie kann ich mein Erspartes retten 
+
 
 
 - binnen:
