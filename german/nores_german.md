@@ -598,6 +598,112 @@
 - herumdrucksen:
     - er hat nicht den wahre Grund gesagt er hat einfach herumgedruckst 
 
+### folgen*
+- folgen:
+    - ich folge dem weg / dir nicht 
+
+- Folge:
+    - die Folge 
+    - das wird folgen haben 
+    - er hat 3 mal in folge das gewonnen 
+    - das hat zur Folge dass man nich gut schlagen kann 
+
+- zufolge:
+    - dem Test zufolge bin ich c1 
+
+- folgendermaßen:
+    - wir gehen folgendermaßen vor 
+
+- folgendes:
+    - wir machen Folgendes 
+
+- darauffolgend:
+    - am darauffolgenden Tag 
+
+- aufeinanderfolgend:
+    - aufeinanderfolgende schritte 
+
+- Folgetermin:
+    - ich habe einen Folgetermin
+
+- Abfolge:
+    - die Abfolge 
+    - ich kenne die Abfolge nicht 
+
+- befolgen:
+    - ich habe den Befehl befolgen
+
+- verfolgen:
+    - ich wollte diese Zeilsetzung verfolgen 
+
+- Sendungsverfolgung:
+    - die Sendungsverfolgung 
+    - die Verfolgungsnummer 
+
+- erfolgen:
+    - auf meine Frage erfolgt keine Antwort 
+    - das sollte in dieser Klasse erfolgen 
+    - das wird später erfolgen
+    - das erste Review ist erfolgt 
+
+- nachfolgen:_
+    - ich werde erst fliegen und meine Familie folgt mir nach
+
+- zurückverfolgen:
+    - Die Wissenschaftler konnten den Ursprung des Virus zurückverfolgen
+
+- Reihenfolge:
+    - die Reihenfolge 
+    - um sicherzustellen dass die Reihenfolge bekannt ist 
+    - in umgekehrter Reihenfolge
+
+- Vorgänger:
+- Nachfolger:
+    - der Vorgänger 
+    - der Nachfolger 
+    - er ist mein Nachfölger 
+
+### reihe 
+- Reihe:
+    - die Reihe 
+    - eine lange Reihe  von Menschen 
+    - in erster Reihen 
+    - ich mache es der Reihe nach
+    - ich habe endlich das auf die Reihe gekriegt 
+    - ich mache es außer der Reihe 
+
+- Reihenfolge:
+    - die Reihenfolge 
+    - in umgekehrter Reihenfolge 
+
+- einreihen:
+    - ich reihe mich ein 
+
+- zuletzt:
+- zunächst:
+    - zunächst müssen wir das planen 
+    - wann warst du zuletzt beim Artz
+
+### agieren
+- agieren:
+    - wir müssen schnell agieren 
+
+- abreagieren:
+    - ich reagiere mich beim Sport ab
+    - er reagiert sich an mir ab
+
+- reagieren:
+    - er hat auf meine Begrussung nicht reagiert 
+
+- überreagieren:
+    - er hat auf die Nachricht überreagiert 
+
+- engagieren:
+    - sie hat sich für mich engagiert 
+
+- propagieren:
+    - ich will dieses Konzept propagieren 
+
 ### spucken
 - Spucke:
     - die Spucke
@@ -622,7 +728,7 @@
 - Schleim:
     - der Schleim 
 
-- schnäuzen:
+- schnäuzen: [nase suaber machen]
     - ich will mir die Nase schnäuzen
 
 - Schnupfen:
@@ -698,13 +804,174 @@
     - die Mauer 
     - das ist eine riesige Mauer 
 
+- untermauern:
+    - ich wollte meine Aussage untermauern 
+
 - Wand:
     - die Wand 
 
 - Zaun:
     - der Zaun
 
-### Fall:
+### schmettern
+- schmettern:
+    - er hat den Ball geschmettert 
+
+- abschmettern:
+    - meine bitte wird abgeschmettert 
+
+- zerschettern:
+    - er hat den Glas zerschmettert 
+
+### leiten
+- leiten:
+    - die Polizei leitet den Verkehr 
+    - ich lass mich nicht von Meinen Gefühlen leiten [hinreißen]
+    - das leitet Strom 
+
+- Leitung:
+    - der Leitung 
+    - ich stehe auf der Leitung 
+
+- ableiten:
+    - das kann man aus dem Kontext ableiten 
+    - das Wasser wird in den Kanal abgeleitet 
+
+- anleiten:
+    - er leitet mich bei der Aufgabe an 
+
+- Anleitung:
+    - die Anleitung 
+    - wo sind die Anleitungen 
+
+- einleiten:
+    - wir werden ein Verfahren gegen ihn einleiten 
+
+- begleiten:
+- zurückbegleiten:
+    - ich kann dich begleiten 
+
+- Begleitung:
+    - die Begleitung 
+    - ich wollte in Begleitung zurückfahren
+
+- herleiten:
+    - das Wort leitet sich von Deutsch 
+
+- überleiten:
+    - Der Lehrer leitete von der Einführung in die Vertiefung des Themas über 
+
+- umleiten:
+    - die Polizei leitet den Verkehr um 
+
+- verleiten:
+    - Er verleitet ihn zum Klauen
+
+- zuleiten:
+    - ich werde dem Gerät Gas zuleiten 
+    - ich werde ihm diese Information zuleiten 
+
+- weiterleiten:
+    - ich leite es an dich weiter
+
+- Einleitung:
+    - die Einleitung 
+    - kürze Einleitung 
+
+### Strom 
+- Strom:
+	- der Strom 
+	- es hat in Stömen geregnet 
+
+- strömen:
+    - dann kann die Luft strömen 
+
+- ausströmen:
+- einströmen:
+- nachströmen:
+    -  Die Blumen strömen Duft aus.
+
+### fließen
+- fließen:
+    - das Wasser fließt 
+
+- abfließen:
+    - das Wasser fließt nicht ab 
+
+- ausfließen:
+    - das Öl ist ausgelossen
+
+- einfließen:
+    - das Wasser fließt in den Kanal ein 
+    - ich habe einfliessen lassen dass ich auf der Suche nach einer Wohnung 
+
+- überfließen:
+    - das Wasser ist übergeflossen 
+
+- zufließen:
+    - Ihm fließt das Geld zu 
+    - das Wasser fließt dem Fluss zu 
+
+- überflüssig:
+    - das ist hier überflüssig 
+
+### Fluss
+- Fluss:
+    - der Fluss 
+    - Leben ist im Fluss 
+    - ich gehe am Fluss 
+    - ich komme vom Fluss 
+    - ich bin am Fluss 
+
+- Einfluss:
+	- der Einfluss
+    - er hat einen größen Einfluss auf ihn 
+
+- Einflussnahme:    
+    - die Einflussnahme 
+    - wir müssen die Einflussnahme von ihm nicht akzeptieren
+
+- beeinflussen:
+    - das beeinflusst mich postiv 
+    - ich lass mich von ihm nicht beeinflussen 
+
+- beeinträchtigen:
+    - das hat mich beeinträchtigen
+
+- Abfluss:_
+    - der Abfluss im badzimmer  
+
+- Redenfluss:
+    - der Redenfluss 
+    - das hat den Redenfluss gestört 
+
+### stopfen
+- stopfen:
+    - ich werde es mit einem Stoff stopfen 
+
+- ausstopfen:
+    - ich stopfe das Kissen aus 
+
+- verstopfen:
+    - das hat das rohr verstopft 
+
+- zustopfen:
+    - Die Tagesordnung war so zugestopft mit Punkten, dass kaum Zeit für Diskussionen blieb 
+
+- Topf:
+    - der Topf 
+    - wir müssen nicht alles in einen Topf werfen
+
+### Register 
+- Register:
+    - das Refister 
+    - wir müssen alle Register ziegen um das zu schaffen 
+
+- registrieren:
+    - ich habe nicht registriert dass er angekommen ist 
+    - ich muss mich erste registrieren 
+
+### Fall:*
 - Fall:
     - der Fall 
     - ob so ein Fall eintreten wird 
@@ -1682,6 +1949,10 @@
     - an datv teilnehmen
     - ich will an dem Kurs teilnehmen 
 
+- teilhaben:
+- partizipieren:
+    - ich habe an dem Erfolg partiziperen 
+
 - festnehmen:
     - die Polizei hat den Mann festgenommen 
 
@@ -2303,7 +2574,7 @@
     - ich hatte keine Zeit um dazu zu kommen 
     - ich brauche Zeit bis ich in den Tag komme 
 
-- abkommen:
+- abkommen: [konvention]
     - wir sind total vom Thema abgekommen 
 
 - ankommen:
@@ -2490,6 +2761,7 @@
 ### legen
 - legen:
     - wir legen Gewicht auf eure Meinung 
+    - die Begeisterung hat sich ein bisschen gelegt 
 
 - ablegen:
     - wo soll ich das ablegen 
@@ -3925,7 +4197,6 @@
     - der Haushalt 
     - ich muss den Haushalt machen 
 
-
 - knapphalteln:
     - die Eltern hat die Kinder mit Taschengeld knapp 
 
@@ -4134,7 +4405,7 @@
 - zusammenstellen:
     - ich habe alle Informationen zusammengestellt die ich finden konnte 
 
-- wiedergherstellen:
+- wiederherstellen:
     - so kann man die Verbindung wiederhertellen 
 
 - Stelle:
@@ -4525,6 +4796,9 @@
 - verbiegen:
     - ich habe den Nagel verbogen 
 
+- hochbiegen:
+    - die Karte mit einer Hand hochbiegen
+
 - zurechtbiegen:
     - er hat die Wahrheit zurechtgebogen damit er mehr Vorteile bekommt
 
@@ -4572,7 +4846,6 @@
 - verbeulen:
     - pass auf dass du dein Auto nicht einbeulen 
      
-
 - zerbeulen:
     - er hat mein Auto zerbeult 
 
@@ -4775,7 +5048,8 @@
     - ich steuere den nächtsen Ausgang an 
 
 - besteuern:
-    - Alkohol wird besteuern
+    - Alkohol wird besteuert 
+    - der Staat besteuert den Gewinn 
 
 - beisteuern:
     - ford ihn einfach auf, beizusteuern 
@@ -5124,101 +5398,6 @@
 
 - entschlüsseln:
     - wie kann man das entschlüsseln 
-
-### teil 
-- Teil:
-	- der Teil
-	- ich habe meinen Teil gemacht 
-	- das ist ein Teil des jobs / der Wahrheit
-	- ich habe zum Teil gekauft und zum Teil selbst gemacht
-	- die Aufgabe ist zum grossen Teil erledigt 
-
-- Urteil:
-    - das Urteil 
-    - mein Urteil darüber ist nicht wichtig 
-    - ich kann kein urteil drüber bilden
-
-- Vorzug:
-- Vorteil:
-- Nachteil:
-    - der Vorzug 
-    - der Vorteil 
-    - der Nachteil 
-    - das kann nur von Vorteil sein 
-    - ich gebe dieser Idee den Vorzug 
-    - Diese Route hat den Vorzug dass sie kürzer ist 
-
-- Bestandteil:
-- Baustein:
-- Grundstock:
-    - der Baustein 
-    - der Bestandteil 
-    - der Grundstock
-
-- Bauteil:
-- Einzelteil:
-- Komponente:
-    - das Einzelteil
-    - das Bauteil 
-    - die Komponente
-    - wir mussen das defekte Bauteil austauschen 
-
-- Anteil:
-    - der Anteil
-    - der Anteil der Leute die an soetwas glauben ist gestiegen
-    - ein grosser Anteil der Bevölkerung ist gegen das Gesetz 
-
-- kleinteilig:  
-    - ich werde das nicht kleinteilig machen 
-
-- teilen:
-    - ich teile deine Meinung nicht 
-    - wir können die Arbeit teilen 
-    - wir können ein Taxi teilen 
-    - ich werde es in zwei kleinere Hälften teilen 
-
-- abteilen:
-    - das Zimmer kann man abteilen 
-    - Der große Raum wurde durch eine Trennwand in zwei kleinere Büros abgeteilt 
-
-- aufteilen:
-    - wir teilen die Arbeit auf uns auf 
-    - wir teilen uns auf damit wir das gesamte Gebiet abdecken können 
-
-- einteilen:
-    - ich muss mir den Tag so einteilen, dass ich nicht hetzen muss 
-    - ich muss die Zeit besser einteilen
-    - ich muss meine Kräfte besser einteilen
-    - ich werde die Aufgaben nach Schwerigkeit in 3 Klassen einteilen 
-    - er teilt die Welt in gut und schlecht ein
-
-- erteilen:
-    - er hat mir den Befehl erteilt 
-    - ich habe ihm die Erläubnis erteilt früher zu gehen 
-
-- verteilen:
-    - ich werde die Sußigkeiten an die Kinder verteilen 
-    - ich muss die Creme auf dem Gesicht verteilen 
-
-- mitteilen:
-    - ich wollte dir mitteilen dass ich heute nicht kommen kann 
-    - das Bedürfnis sich mitzuteilen ist starke Motive
-
-- beteiligen:
-	- ich will an der Diskussion beteiligen
-
-- zuteilen:
-    - jede bekommt ein Arbeit zugeteilt 
-    - ich teile dir das zu [zuordnen] 
-
-- beurteilen:
-    - ich kann das nicht beurteilen
-
-- verurteilen:
-    - ich will dich nicht verurteilen 
-
-- übervorteilen:
-    - er hat mich übervorteilt weil er Erfahrung hat
 
 ### rechnen
 - rechen:
@@ -5723,7 +5902,7 @@
     - ich weiss nicht wo führt das hin 
     - ich habe mich von ihm hinführen lassen 
 
-- herbeiführen: _
+- herbeiführen: 
     - ich wollte eine Veränderung herbeiführen 
     - man kann sein Glück herbeiführen
 
@@ -5878,7 +6057,7 @@
 - losfahren:
     - ich fahre morgen los 
 
-- Verfahren:
+- Verfahren: [prozedur]
 	- das Verfahren
 	- das ist ein neues Verfahren 
 
@@ -6341,8 +6520,10 @@
     - der Verstoß 
     - das ist ein Verstoß gegen die Regel 
 
-
 ### rutschen
+- schlittern:
+    - Für viele Unternehmen könnte es schnell in die Insolvenz schlittern.
+
 - rutschen:
     - ich bin ins Rutschen gekommen [ins rutschen]
     - meine Hose rutscht
@@ -6889,104 +7070,6 @@
 - labil:
     - die Lage ist Labil
 
-### Maß 
-- Maß:
-    - das Maß 
-    - ich will Maß nehmen 
-    - ein gewisses Maß an Geduld ist hier nötig 
-    - das kann man zu einem gewissen Maß machen
-    - das geht über das normale Maß hinaus 
-
-- Masse:
-    - die Masse 
-    - die breite Masse sind dagegen 
-
-- maßhalten:
-    - ich halte beim Essen maß 
-
-- anmaßen:
-    - ich würde mir nicht anmaßen dass ich weiss was in dir vorgeht [herausnehmen]
-
-- Ausmaß:
-    - das Ausmaß 
-    - ich habe das ganze Ausmaß gesehen 
-    - ich habe nie soetwas in diesem Ausmaß
-
-- Übermaß:
-    - das Übermäß 
-    - das Übermäß an Essen ist nicht gut 
-    - wir konsumieren das im Übermäß 
-
-- dermaßen:
-    - es geht dermaßen dass ich alles in Frage stelle 
-
-- maßstab:
-    - der Maßstab 
-    - ich benutze ihn als Maßstab 
-
-- maßgeblich:
-    - er hat eine maßgebliche Rolle gespielt in dieser Sache 
-
-- mutmaßen: 
-    - er hat gemutmaßt dass er es nicht weiß [vermuten] 
-
-- mäßig:
-- übermäßig:
-    - meine Leistung ist mäßig 
-    - ein übermäßiger Konsum an Tee ist nicht gut 
-
-- zeitgemäß:
-    - er ist zeitgemäß 
-
-- wettermäßig:
-- Geldmäßig:
-- planmässig:
-- Gefühlsmäßig:
-- Verhältnismäßig:
-    - Wettermäßig war heute alles super 
-    - verhältnismäßig ist es teuer
-
-
-- folgendermaßen:
-    - ich werde die Situation foldendermaßen erklären 
-
-- Massenweise:
-    - es gibt Massenweise Frauen die das machen willst 
-
-- messen:
-    - ich messe ihm die Temperature 
-    - ich will ihn nicht an seinem Bruder messen 
-
-- abmessen:
-    - die Entfernung abmessen 
-
-- angemessen:
-    - das Gehalt ist der Lesitung nicht angemessen 
-
-- ausmessen:
-    - ich messe die Wohnung aus 
-
-- beimessen:
-    - ich werde der Sache keine Bedeutung beimessen 
-
-- bemessen:
-    - die Zeit war sehr knapp bemessen 
-    - das Bad war großzugig bemessen 
-    - das lässt sich in Geld bemessen 
-
-- ermessen:
-    - ich kann die Wichtigkeit der Aufgabe nicht ermessen 
-
-- nachmessen:
-    - ich muss nach ob der Raum groß genung 
-
-- vermessen:
-    - ich habe mich um 2 cm vermessen     
-    - das war vermessen von mir dass ich geglaubt habe, dass ich das schaffen werde 
-
-- Durchmesser:
-    - der Durchmesser 
-
 ### zeigen
 - zeigen:
     - ich kannd dir zeigen wie es funktioniert 
@@ -7354,60 +7437,6 @@
 - bekannt:
     - das ist mir bekannt 
     - das ist mir fremd 
-
-### heben 
-- heben:
-    - ich will mein Selbstbewusstsein heben 
-    - ich wollte die Stimmung heben 
-
-- abheben:
-    - ich muss schnell Geld abheben
-    - ich hebe mich von den anderen ab
-    - ich muss zur Bank laufen um Geld abzuheben   
-    - das Fligzeug hebt ab 
-    - ich habe ihn angerufen aber sie hebt nicht ab
-
-- abgehoben:   
-    - seit seinem Erfolg ist er ein bisschen abgehoben
-
-- anheben:
-    - Der schwere Sack lässt sich kaum anheben. 
-
-- aufheben:_
-    - kannst du bitte den stift vom Boden aufheben
-    - das solltest du nicht wegewerfen sondern aufheben 
-    - die Bieden kräften heben sich auf 
-
-- Aufhebungsvertrag:
-    - der Aufhebungsvertrag
-
-- beheben:
-    - ich habe den Fehler behoben 
-
-- erheben:
-    - es erhibt keinen Anspruch auf Völlstandigkeit 
-    - Gebühren erheben
-
-- hochheben:
-    - kannst du bitte deine Hande hochheben 
-
-- herunterheben:
-    - ich hebe das Laptop vom Tisch herunter
-
-- verheben:
-    - ich habe mich verhoben
-
-- Anhieb:
-    - das hat auf Anhieb geklappt 
-
-- Hebel:
-    - der Hebel 
-    - er sitzt am längeren Hebel 
-    - das können wir als Hebel benutzen 
-    - im Leben hat Geld den größten Hebel 
-
-- überheblich:
-    - das soll nicht überheblich klingen das sollte nur demon
 
 ### passen
 - verpassen:
@@ -8144,58 +8173,6 @@
 - auflesen:
     - er hat einen kleinen Hund auf de Straße aufgelesen  
 
-### spielen
-- spielen:
-    - ich habe mit ihm gespielt
-
-- abspielen:
-    - spiel den Ball ab
-    - was spielt sich zwischen euch ab (sich) [passieren]
-
-- anspieln:
-    - er hat auf das Thema angespielt 
-
-- aufspielen: [install]
-    - Auch zukünftige Firmwareupdates lassen sich über die Schnittstelle problemlos aufspielen. 
-    - ich werde es auf meinen Laptop aufspielen 
-    - er spielt sich als Chef auf (sich) 
-
-- ausspielen:
-    - er spielt mich gegen meinen Bruder aus 
-    - ich werde meine Möglichkeiten voll ausspielen 
-
-- durchspielen:
-    - ich habe die Situation durchgespielt aber ich habe keine Lösung gefunden  
-
-- einspielen:
-    - ich muss die neue Software einspielen 
-    - es braucht Zeit bis sich alles eingespielt hat her
-
-- hochspielen:
-- herunterspielen:
-    - die Medien spielen die Situation hoch 
-
-- mitspielen:
-    - wenn das Wetter mitspielt schaffen wir es
-
-- verspielen:
-    - du hast dein Glück verspielt 
-
-- vorspielen:
-    - ich will dir nichts vorspielen 
-
-- überspielen: [übertragen]
-    - ich kann das auf einen anderen Datenträger überspielen
-    - ich wollte meine Unsicherheit überspieln 
-
-- zuspielen:
-    - ich spiele dir den Ball zu
-
-- Beispiel:
-    - das Beispiel 
-    - ich kann das an einem Beispiel erklären 
-    - ich kann ein gutes Beispiel anführen 
-
 ### sache 
 - sachlich:
     - ich versuche sachlich zu bleiben 
@@ -8872,20 +8849,6 @@
 - emotional:
     - ich will nicht emotional reagieren
 
-### reagieren
-- abreagieren:
-    - ich reagiere mich beim Sport ab
-    - er reagiert sich an mir ab
-
-- reagieren:
-    - er hat auf meine Begrussung nicht reagiert 
-
-- agieren:
-    - wir müssen schnell agieren 
-
-- überreagieren:
-    - er hat auf die Nachricht überreagiert 
-
 ### reichen
 - reichen:
     - reiche mir das Essen 
@@ -9203,88 +9166,6 @@
 - Anschuldigung:
     - die Anschuldigung
     - das ist eine heftige Anschuldigung 
-
-
-### folgen
-- folgen:
-    - ich folge dir nicht 
-
-- Folge:
-    - die Folge 
-    - das wird folgen haben 
-    - er hat 3 mal in folge das gewonnen 
-    - das hat zur Folge dass man nich gut schlagen kann 
-
-- zufolge:
-    - dem Test zufolge bin ich c1 
-
-- folgendermaßen:
-    - wir gehen folgendermaßen vor 
-
-- folgendes:
-    - wir machen Folgendes 
-
-- darauffolgend:
-    - am darauffolgenden Tag 
-
-- verfolgen:
-    - ich wollte diese Zeilsetzung verfolgen 
-
-- befolgen:
-    - ich habe den Befehl befolgen
-
-- erfolgen:
-    - auf meine Frage erfolgt keine Antwort 
-    - das sollte in dieser Klasse erfolgen 
-    - das wird später erfolgen
-    - das erste Review ist erfolgt 
-
-- nachfolgen:_
-    - ich werde erst fliegen und meine Familie folgt mir nach
-
-- zurückverfolgen:
-    - Die Wissenschaftler konnten den Ursprung des Virus zurückverfolgen
-
-- Reihenfolge:
-    - die Reihenfolge 
-    - um sicherzustellen dass die Reihenfolge bekannt ist 
-    - in umgekehrter Reihenfolge
-
-- Abfolge:
-    - die Abfolge 
-    - ich kenne die Abfolge nicht 
-
-- Folgetermin:
-    - ich habe einen Folgetermin
-
-- Vorgänger:
-- Nachfolger:
-    - der Vorgänger 
-    - der Nachfolger 
-    - er ist mein Nachfölger 
-
-### reihe 
-- Reihe:
-    - die Reihe 
-    - eine lange Reihe  von Menschen 
-    - in erster Reihen 
-    - ich mache es der Reihe nach
-    - ich habe endlich das auf die Reihe gekriegt 
-    - ich mache es außer der Reihe 
-
-- Reihenfolge:
-    - die Reihenfolge 
-    - in umgekehrter Reihenfolge 
-
-- einreihen:
-    - ich reihe mich ein 
-
-- zuletzt:
-- zunächst:
-- zuletzt:
-    - zunächst müssen wir das planen 
-    - wann warst du zuletzt beim Artz
-
 
 ### anspruchen
 - Anspruch:
@@ -10648,141 +10529,6 @@
 - bezweifeln:
 	- ich bezwifel dass 
 
-### leiten
-- leiten:
-    - die Polizei leitet den Verkehr 
-    - ich lass mich nicht von Meinen Gefühlen leiten [hinreißen]
-    - das leitet Strom 
-
-- ableiten:
-    - das kann man aus dem Kontext ableiten 
-    - das Wasser wird in den Kanal abgeleitet 
-
-- anleiten:
-    - er leitet mich bei der Aufgabe an 
-
-- Anleitung:
-    - die Anleitung 
-    - wo sind die Anleitungen 
-
-- einleiten:
-    - wir werden ein Verfahren gegen ihn einleiten 
-
-- begleiten:
-- zurückbegleiten:
-    - ich kann dich begleiten 
-
-- Begleitung:
-    - die Begleitung 
-    - ich wollte in Begleitung zurückfahren
-
-- herleiten:
-    - das Wort leitet sich von Deutsch 
-
-- überleiten:
-    - Der Lehrer leitete von der Einführung in die Vertiefung des Themas über 
-
-- umleiten:
-    - die Polizei leitet den Verkehr um 
-
-- verleiten:
-    - Er verleitet ihn zum Klauen
-
-- zuleiten:
-    - ich werde dem Gerät Gas zuleiten 
-    - ich werde ihm diese Information zuleiten 
-
-- weiterleiten:
-    - ich leite es an dich weiter
-
-- Einleitung:
-    - die Einleitung 
-    - kürze Einleitung 
-
-### Strom 
-- Strom:
-	- der Strom 
-	- es hat in Stömen geregnet 
-
-- strömen:
-    - dann kann die Luft strömen 
-
-- ausströmen:
-- einströmen:
-- nachströmen:
-    -  Die Blumen strömen Duft aus.
-
-### fließen
-- fließen:
-    - das Wasser fließt 
-
-- abfließen:
-    - das Wasser fließt nicht ab 
-
-- ausfließen:
-    - das Öl ist ausgelossen
-
-- einfließen:
-    - das Wasser fließt in den Kanal ein 
-    - ich habe einfliessen lassen dass ich auf der Suche nach einer Wohnung 
-
-- überfließen:
-    - das Wasser ist übergeflossen 
-
-- zufließen:
-    - Ihm fließt das Geld zu 
-    - das Wasser fließt dem Fluss zu 
-
-- überflüssig:
-    - das ist hier überflüssig 
-
-### Fluss
-- Fluss:
-    - der Fluss 
-    - Leben ist im Fluss 
-    - ich gehe am Fluss 
-    - ich komme vom Fluss 
-    - ich bin am Fluss 
-
-- Einfluss:
-	- der Einfluss
-    - er hat einen größen Einfluss auf ihn 
-
-- Einflussnahme:    
-    - die Einflussnahme 
-    - wir müssen die Einflussnahme von ihm nicht akzeptieren
-
-- beeinflussen:
-    - das beeinflusst mich postiv 
-    - ich lass mich von ihm nicht beeinflussen 
-
-- beeinträchtigen:
-    - das hat mich beeinträchtigen
-
-- Abfluss:_
-    - der Abfluss im badzimmer  
-
-- Redenfluss:
-    - der Redenfluss 
-    - das hat den Redenfluss gestört 
-
-### stopfen
-- stopfen:
-    - ich werde es mit einem Stoff stopfen 
-
-- ausstopfen:
-    - ich stopfe das Kissen aus 
-
-- verstopfen:
-    - das hat das rohr verstopft 
-
-- zustopfen:
-    - Die Tagesordnung war so zugestopft mit Punkten, dass kaum Zeit für Diskussionen blieb 
-
-- Topf:
-    - der Topf 
-    - wir müssen nicht alles in einen Topf werfen
-
 ### trainieren
 - trainieren:
     - ich wollte meinen Körper trainieren 
@@ -11028,7 +10774,7 @@
 - schmerzfrei:
     - ich bin schmerzfrei
 
-### Weile && Wille
+### Weile && Wille*
 - Weile:
     - die Weile 
     - nach einer Weile macht es nicht mehr Spass
@@ -11083,8 +10829,322 @@
 
 - gewollt:
     - das ist aber nicht gewollt
+### spielen
+- spielen:
+    - ich habe mit ihm gespielt
 
-### denken_
+- abspielen:
+    - spiel den Ball ab
+    - was spielt sich zwischen euch ab (sich) [passieren]
+
+- anspieln:
+    - er hat auf das Thema angespielt 
+
+- aufspielen: [install]
+    - Auch zukünftige Firmwareupdates lassen sich über die Schnittstelle problemlos aufspielen. 
+    - ich werde es auf meinen Laptop aufspielen 
+    - er spielt sich als Chef auf (sich) 
+
+- ausspielen:
+    - er spielt mich gegen meinen Bruder aus 
+    - ich werde meine Möglichkeiten voll ausspielen 
+
+- durchspielen:
+    - ich habe die Situation durchgespielt aber ich habe keine Lösung gefunden  
+
+- einspielen:
+    - ich muss die neue Software einspielen 
+    - es braucht Zeit bis sich alles eingespielt hat her
+
+- hochspielen:
+- herunterspielen:
+    - die Medien spielen die Situation hoch 
+
+- mitspielen:
+    - wenn das Wetter mitspielt schaffen wir es
+
+- verspielen:
+    - du hast dein Glück verspielt 
+
+- vorspielen:
+    - ich will dir nichts vorspielen 
+
+- überspielen: [übertragen]
+    - ich kann das auf einen anderen Datenträger überspielen
+    - ich wollte meine Unsicherheit überspieln 
+
+- zuspielen:
+    - ich spiele dir den Ball zu
+
+- Beispiel:
+    - das Beispiel 
+    - ich kann das an einem Beispiel erklären 
+    - ich kann ein gutes Beispiel anführen 
+
+
+### teil
+- Teil:
+	- der Teil
+	- ich habe meinen Teil gemacht 
+	- das ist ein Teil des jobs / der Wahrheit
+	- ich habe zum Teil gekauft und zum Teil selbst gemacht
+	- die Aufgabe ist zum grossen Teil erledigt 
+
+- Urteil:
+    - das Urteil 
+    - mein Urteil darüber ist nicht wichtig 
+    - ich kann kein urteil drüber bilden
+
+- Vorzug:
+- Vorteil:
+- Nachteil:
+    - der Vorzug 
+    - der Vorteil 
+    - der Nachteil 
+    - das kann nur von Vorteil sein 
+    - ich gebe dieser Idee den Vorzug 
+    - Diese Route hat den Vorzug dass sie kürzer ist 
+
+- Bestandteil:
+- Baustein:
+- Grundstock:
+    - der Baustein 
+    - der Bestandteil 
+    - der Grundstock
+
+- Bauteil:
+- Einzelteil:
+- Komponente:
+    - das Einzelteil
+    - das Bauteil 
+    - die Komponente
+    - wir mussen das defekte Bauteil austauschen 
+
+- Anteil:
+    - der Anteil
+    - der Anteil der Leute die an soetwas glauben ist gestiegen
+    - ein grosser Anteil der Bevölkerung ist gegen das Gesetz 
+
+- kleinteilig:  
+    - ich werde das nicht kleinteilig machen 
+
+- teilen:
+    - ich teile deine Meinung nicht 
+    - wir können die Arbeit teilen 
+    - wir können ein Taxi teilen 
+    - ich werde es in zwei kleinere Hälften teilen 
+
+- abteilen:
+    - das Zimmer kann man abteilen 
+    - Der große Raum wurde durch eine Trennwand in zwei kleinere Büros abgeteilt 
+
+- aufteilen:
+    - wir teilen die Arbeit auf uns auf 
+    - wir teilen uns auf damit wir das gesamte Gebiet abdecken können 
+
+- einteilen:
+    - ich muss mir den Tag so einteilen, dass ich nicht hetzen muss 
+    - ich muss die Zeit besser einteilen
+    - ich muss meine Kräfte besser einteilen
+    - ich werde die Aufgaben nach Schwerigkeit in 3 Klassen einteilen 
+    - er teilt die Welt in gut und schlecht ein
+
+- erteilen:
+    - er hat mir den Befehl erteilt 
+    - ich habe ihm die Erläubnis erteilt früher zu gehen 
+
+- verteilen:
+    - ich werde die Sußigkeiten an die Kinder verteilen 
+    - ich muss die Creme auf dem Gesicht verteilen 
+
+- austeilen:
+    - er teilt Karte aus 
+    - er teilt ordentlich azs 
+
+- mitteilen:
+    - ich wollte dir mitteilen dass ich heute nicht kommen kann 
+    - das Bedürfnis sich mitzuteilen ist starke Motive
+
+- beteiligen:
+	- ich will an der Diskussion beteiligen
+
+- zuteilen:
+    - jede bekommt ein Arbeit zugeteilt 
+    - ich teile dir das zu [zuordnen] 
+
+- beurteilen:
+    - ich kann das nicht beurteilen
+
+- verurteilen:
+    - ich will dich nicht verurteilen 
+
+- übervorteilen:
+    - er hat mich übervorteilt weil er Erfahrung hat 
+
+- umverteilen:
+    - wir müssen die Ressourcen umverteilen
+
+### Maß
+- Maß:
+    - das Maß 
+    - ich will Maß nehmen 
+    - ein gewisses Maß an Geduld ist hier nötig 
+    - das kann man zu einem gewissen Maß machen
+    - das geht über das normale Maß hinaus 
+    - er misst mit verschiedenem messen 
+    - das Maß ist voll 
+    - um das Maß voll zu machen
+
+- Masse:
+    - die Masse 
+    - die breite Masse sind dagegen 
+
+- maßhalten:
+    - ich halte beim Essen maß 
+
+- anmaßen:
+    - ich würde mir nicht anmaßen dass ich weiss was in dir vorgeht [herausnehmen]
+
+- Ausmaß:
+    - das Ausmaß 
+    - ich habe das ganze Ausmaß gesehen 
+    - ich habe nie soetwas in diesem Ausmaß
+
+- Übermaß:
+    - das Übermäß 
+    - das Übermäß an Essen ist nicht gut 
+    - wir konsumieren das im Übermäß 
+
+- dermaßen:
+    - es geht dermaßen dass ich alles in Frage stelle 
+
+- maßstab:
+    - der Maßstab 
+    - ich benutze ihn als Maßstab 
+
+- maßgeblich:
+    - er hat eine maßgebliche Rolle gespielt in dieser Sache 
+
+- mutmaßen: 
+    - er hat gemutmaßt dass er es nicht weiß [vermuten] 
+
+- mäßig:
+- übermäßig:
+    - meine Leistung ist mäßig 
+    - ein übermäßiger Konsum an Tee ist nicht gut 
+
+- zeitgemäß:
+    - er ist zeitgemäß 
+
+- wettermäßig:
+- Geldmäßig:
+- planmässig:
+- Gefühlsmäßig:
+- Verhältnismäßig:
+    - Wettermäßig war heute alles super 
+    - verhältnismäßig ist es teuer 
+
+- sinngemäß:
+    - ich habe das sinngemäß gesagt 
+    - das bedeutet sinngemäß das gleiche 
+    - die Regek gilt sinngemäß für mich auch
+
+- folgendermaßen:
+    - ich werde die Situation foldendermaßen erklären 
+
+- Massenweise:
+    - es gibt Massenweise Frauen die das machen willst 
+
+- messen:
+    - ich messe ihm die Temperature 
+    - ich will ihn nicht an seinem Bruder messen 
+
+- abmessen:
+    - die Entfernung abmessen 
+
+- angemessen:
+    - das Gehalt ist der Lesitung nicht angemessen 
+
+- ausmessen:
+    - ich messe die Wohnung aus 
+
+- beimessen:
+    - ich werde der Sache keine Bedeutung beimessen 
+
+- bemessen:
+    - die Zeit war sehr knapp bemessen 
+    - das Bad war großzugig bemessen 
+    - das lässt sich in Geld bemessen 
+
+- ermessen:
+    - ich kann die Wichtigkeit der Aufgabe nicht ermessen 
+
+- nachmessen:
+    - ich muss nach ob der Raum groß genung 
+
+- vermessen:
+    - ich habe mich um 2 cm vermessen     
+    - das war vermessen von mir dass ich geglaubt habe, dass ich das schaffen werde 
+
+- Durchmesser:
+    - der Durchmesser 
+
+### heben 
+- Hebel:
+    - der Hebel 
+    - er sitzt am längeren Hebel 
+    - das können wir als Hebel benutzen 
+    - im Leben hat Geld den größten Hebel 
+    - ich weiß nicht wo ich den Hebel ansetzen damit ich das schaffen kann 
+
+- heben:
+    - ich will mein Selbstbewusstsein heben 
+    - ich wollte die Stimmung heben 
+
+- abheben:
+    - ich muss schnell Geld abheben
+    - ich hebe mich von den anderen ab
+    - ich muss zur Bank laufen um Geld abzuheben   
+    - das Fligzeug hebt ab 
+    - ich habe ihn angerufen aber sie hebt nicht ab
+
+- abgehoben:   
+    - seit seinem Erfolg ist er ein bisschen abgehoben
+
+- anheben:
+    - Der schwere Sack lässt sich kaum anheben. 
+
+- aufheben:_
+    - kannst du bitte den stift vom Boden aufheben
+    - das solltest du nicht wegewerfen sondern aufheben 
+    - die Bieden kräften heben sich auf 
+
+- Aufhebungsvertrag:
+    - der Aufhebungsvertrag
+
+- beheben:
+    - ich habe den Fehler behoben 
+
+- erheben:
+    - es erhibt keinen Anspruch auf Völlstandigkeit 
+    - Gebühren erheben
+
+- hochheben:
+    - kannst du bitte deine Hande hochheben 
+
+- herunterheben:
+    - ich hebe das Laptop vom Tisch herunter
+
+- verheben:
+    - ich habe mich verhoben
+
+- Anhieb:
+    - das hat auf Anhieb geklappt 
+
+- überheblich:
+    - das soll nicht überheblich klingen das sollte nur demon
+
+### denken
 - denken:
     - ich hätte das nicht von dir gedacht 
     - ich habe an dich gedacht 
@@ -12145,7 +12205,7 @@
 - anrempeln:
     - ich habe ihn versehentlich angeremplt 
 
-### kratzen_
+### kratzen
 - kratzen:
     - die katze hat mich gekratzt 
     - das Hemd kreizt mich 
@@ -12292,6 +12352,10 @@
     - ich hatte ein komisches / gemischtes Gefühl 
     - ich habe kein Gefühl mehr in meinen Fingern  
     - nach meinen Gefühlen dauert es ein bisschn länger [nach Gefühlen]
+
+- Tuchfühlung:
+    - die Tuchfühlung 
+    - hier hat man Tuchfühlung mit der Natur 
 
 - fröhlich:
     - ich bin sehr fröhlich dass es geklappt hat 
@@ -13806,7 +13870,7 @@
 - entwirren:
     - ich will das Kabel entwirren 
 
-### wickeln_
+### wickeln
 - wickeln:
     - ich wickle den Faden auf eine Rolle 
     - ich wickle mir einen Schal um den Hals 
@@ -14905,6 +14969,7 @@
 ### tisch 
 - Tisch:
     - der Tisch 
+    - er hat mich über den Tisch gezogen [er hat mich getäuscht]
 
 - Tischbein:
     - das Tischbein 
@@ -15205,6 +15270,7 @@
 
 - aussprechen:
     - ich kann das Wort nicht richig aussprechen 
+    - er hat seinen Wunsch ausgesprochen
     - lass mich bitte aussprechen 
     - ich wollte mich über mein Problem aussprechen 
 
@@ -16231,6 +16297,9 @@
 
 - schlicht:
     - das ist schlicht unmöglich das zu machen 
+
+- schlichten:
+    - den Konflikt schlichten
 
 - leuchten:
     - die Lampe leuchtet 
@@ -17528,6 +17597,21 @@
 - passiv:
     - ich will nicht passiv verhalten
 
+- Aktion:
+    - die Aktion 
+
+- Reaktion:
+    - die Reaktion 
+    - das war eine normale Reaktion 
+
+- Interaktion:
+- interagieren:
+    - die Interaktion 
+    - das war meine erste Interaktion mit den leuten 
+
+- Abreaktion:
+    - ich benutze es als Abreaktion 
+
 ### schirm 
 - Schirm:  
     - der Schirm 
@@ -17940,10 +18024,6 @@
     - ab hier gibt es eine Gabelung
 
 ### p
-- Palette:
-    - die Palette  
-    - wir haben eine große Palette an Produkten 
-
 - Panik:
     - die Pankik 
     - es besteht kein Grund zur Panik 
@@ -18685,6 +18765,9 @@
     - ja mehr ich gemeckert habe , umso weniger hat er mir geholfen und teilweise auch absichtlich
 
 - Macke:
+- Defizit:
+    - das Defizit
+    - ich hatte ein Schlafdefizit
     - die Macke 
     - jede hat seine Macken
 
@@ -19512,6 +19595,10 @@
     - der Trinkhalm
 
 ### platte 
+- Palette:
+    - die Palette 
+    - es gibt eine große palette 
+
 - Platte:
     - die Platte 
 
@@ -20325,6 +20412,9 @@
     - kann ich sein dass ich viel reininterpretieren 
 
 ### eskalieren 
+- skalieren:
+    - das kann gut skalieren 
+
 - eskalieren:
     - die Situation konnte weiter eskalieren 
 
@@ -20414,14 +20504,42 @@
 - mies:
     - es war mieses Wetter 
 
+### opti
+- optimieren:
+    - ich optimiere es auf die Basis 
 
+- optimal:
+    - das war näturlich optimal 
+
+- suboptimal:
+    - der Prozess ist leider suboptimal 
+
+### Risko
+- Risiko:
+    - das Risiko 
+    - das Risiko eingehen 
+
+- riskant:
+    - das ist aber riskant  
+
+- riskieren:
+    - ich bin bereit das zu riskieren 
+
+### kombination
+- Kombination:
+    - die Kombination 
+    - das ist eine gute Kombination 
+
+- kombinieren:
+    - das ist einfach zu kombinieren 
 
 **
+- mit auf den weg
+- 
 
 - zeitversetzt 
 - reinstecken
 - auf sich gestellt 
-- mit auf den weg
 - hineindenken
 - es floppt halt
 - konsumieren
