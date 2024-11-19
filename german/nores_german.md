@@ -728,7 +728,7 @@
 - Schleim:
     - der Schleim 
 
-- schnäuzen: [nase suaber machen]
+- schnäuzen: [nase suauberaber machen]
     - ich will mir die Nase schnäuzen
 
 - Schnupfen:
@@ -830,7 +830,7 @@
     - das leitet Strom 
 
 - Leitung:
-    - der Leitung 
+    - die Leitung 
     - ich stehe auf der Leitung 
 
 - ableiten:
@@ -11160,7 +11160,7 @@
     - wir müssen neue Stragtie andenken
  
 - ausdenken:
-	- ich muss mir etwas neues ausdenken 
+	- ich muss mir etwas neues ausdenken [ausbrüten]
 
 - bedenken:
 	- ich muss die Folgen noch einmal bedenken
@@ -15985,6 +15985,10 @@
     - diese Kleidung verbleichen schnell 
 
 ### schwellen
+- Schwelle:
+    - die Schwelle 
+    - wir haben eine Schwelle erreicht an der wir etwas übernehmen muss
+
 - schwellen:
     - meine Füße sind geschwollen 
 
