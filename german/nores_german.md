@@ -12245,20 +12245,6 @@
 - überreizen:
     - meine Nerven waren überreizt 
 
-### raffen 
-- raffen:
-    - ich kann es immer noch nicht raffen wie man das machen kann 
-    - ich habe viel Geld gerafft 
-
-- raffgierig:
-    - er ist raffgierig
-
-- aufraffen:
-    - ich muss mich zu dieser Aufgabe aufraffen
-
-- zusammenraffen:
-    - ich habe viel Geld in kurzer Zeit zusammengerafft 
-
 ### stärken 
 ### kräftigen:
 - stark:
@@ -13393,7 +13379,7 @@
     - das ist ein Sprung  
 
 - auf dem Sprung sein:
-    - ich war auf dem Sprung dich anzurufen [im Begriff]
+    - ich war auf dem Sprung dich anzurufen [im Begriff] [sich anschicken]
     - ich bin gerade auf dem Sprung 
 
 - Spring ins ungewisse:
@@ -16037,6 +16023,9 @@
 
 - peitschen:
     - ein Tier peitschen 
+
+- aufputschen:
+    - ich putsche mich mit Kaffee auf 
  
 ### Weg
 - Abweg:
@@ -16561,19 +16550,6 @@
 - Glaubenssatz:
     - der Glaubenssatz 
     - seine Glaubenssätze waren komisch
-
-### ringen 
-- ringen:
-    - ich habe mit ihm zum Spaß gerungen 
-
-- abringen:
-    - er hat mir das Versprechen abgerungen [abschwatzen]
-
-- durchringen:
-    - ich muss mich durchringen das zu machen 
-
-- umringen:
-    - sie haben den Star umringt 
 
 ### erben
 - erben:
@@ -18540,7 +18516,6 @@
 - beiderseits / beidseits:
     - dann fällt schlechte Wörter beiderseits 
 
-
 ### all
 - allein:   
     - ich kann allein fahren 
@@ -18571,6 +18546,33 @@
 - allmählich:
 - schrittweise:
     - ich werde das allmählich machen 
+
+### ringen 
+- ringen:
+    - ich habe mit ihm zum Spaß gerungen 
+
+- abringen:
+    - er hat mir das Versprechen abgerungen [abschwatzen]
+
+- durchringen:
+    - ich muss mich durchringen das zu machen 
+
+- umringen:
+    - sie haben den Star umringt 
+
+### raffen 
+- raffen:
+    - ich kann es immer noch nicht raffen wie man das machen kann 
+    - ich habe viel Geld gerafft 
+
+- raffgierig:
+    - er ist raffgierig
+
+- aufraffen:
+    - ich muss mich zu dieser Aufgabe aufraffen
+
+- zusammenraffen:
+    - ich habe viel Geld in kurzer Zeit zusammengerafft 
 
 ### raufen
 - raufen:
@@ -18668,7 +18670,7 @@
 ### summ 
 - Summe:
     - die Summe
-    - sie sinde keine großen Fehler aber in der Summe war es halt zuviel 
+    - sie sind keine großen Fehler aber in der Summe war es halt zuviel 
 
 - summieren:
     - kleine dingen summieren sich zu einem Erfolg
@@ -19482,6 +19484,21 @@
 - anfeuern:
     - die Fans haben ihn angefeuert 
 
+- stimulieren:
+- ankurbeln:
+    - das kann das Gehirn stimulieren 
+
+- inspirieren:
+    - das hat mich inspiriert ihn anzurufen
+
+### stachel
+- Stachel:
+    - der Stachel 
+    - der Baum hat lange Stacheln 
+
+- aufstacheln:
+    - der Trainer stachlt ihn auf
+
 ### stadt 
 - stadt:
     - die Stadt 
@@ -19517,8 +19534,11 @@
     - das Kollektive Gedächtnis 
     - kollektivstrafung 
 
-- koperativ:
-    - er ist sehr koperativ 
+- kooperativ:
+    - er ist sehr kooperativ 
+
+- kooperieren:
+    - ich habe mit ihm kooperiert 
 
 ### grat 
 - gratis:
@@ -19641,6 +19661,9 @@
 - lauern:
     - die Katze lauert auf die Mause 
 
+- belauern:
+    - belauern das Opfer 
+
 - auflauern:
     - die Räuber haben ihm aufgelauert 
 
@@ -19648,6 +19671,9 @@
     - das Opfer 
     - sie sind Opfer 
     - das verlangt ein großes Opfer ab 
+
+- Opfergabe:
+    - die Opfergabe
 
 - aufopfern:
     - ich habe mich für die Familie aufgeopfert 
@@ -19694,7 +19720,7 @@
 
 - schwärmen:
     - ich schwärme für sie gerade nicht 
-    - sie hat von dem Urlaub geschwarmt 
+    - sie hat von dem Urlaub geschwärmt 
 
 - anschwärmen:
     - leute schwärmen ihn an 
@@ -19739,6 +19765,10 @@
     - der Affe 
     - ich mache mich nicht zum Affen 
 
+- Affekt:
+    - der Affekt 
+    - im Affekt handeln 
+
 - waffe:
     - die Waffe 
     - das ist eine gefährliche Waffe 
@@ -19779,7 +19809,6 @@
 
 ### acker 
 - acker:
-    - ich mache mich vom Acker 
     - ich mache mich vom Acker 
 
 - ackern:
@@ -19829,6 +19858,10 @@
 
 - umblättern:
     - ich blättere die Seite um 
+
+- vorblättern:
+- zurückblättern:
+    - dort kann vor vor und zurück -blättern
 
 ### Computer 
 - kreieren:
@@ -20157,7 +20190,7 @@
     - ich habe ihn weggeschickt 
 
 ### ins
-- ins Augen fallen:
+- ins Auge fallen:
     - soetwas fällt ins Auge 
 
 - ins Wasser fallen:
@@ -21561,9 +21594,6 @@ ______________________________________
     - ich brauche kein Almosen von ihm 
 
 
-- anstacheln:
-- aufstacheln:
-    - ich wollte dich anstacheln 
 
 
 
