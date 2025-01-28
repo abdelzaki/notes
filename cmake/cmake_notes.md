@@ -29,6 +29,9 @@
 - to link library 
     - target_link_libraries("target" library)
 
+- if we want to add a path where find_package/find_library/find_path/find_program would also use to search for packages 
+    - set(CMAKE_PREFIX_PATH "path")
+
 
 - to assign variable:
     - set("name" value)

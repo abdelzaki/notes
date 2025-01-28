@@ -10,21 +10,54 @@
     - return 0 if the program ended without failure 
     - non zero return means a failure has happened  
 
-- macro:
+## macro
     - always put the ars inside ()
     - example:
         - #define double(x) ((x) * x)*
         - double (1+2) would be replaced with ((1+2)*(1+2))
 
-- types:
+## type alias
+    - type alias for integer are found in <stdint> header file
+    - using name = const int* 
+    - typedef int uint32_t 
+        - in our code we use uint32_t when we want to use 32bits if we ported the machine to another 
+        machine where the int is not 32 bits we would change the typedef to long
+        typedef ling uint32_t
+
+## pointer 
+- int* pi           -> pointer to an integer 
+- int** ppi         -> double pointer to an integer 
+- int* ap[15]       -> array of pointers to integer 
+- int* f(char*)     -> function with takes pointer and return pointer 
+- int* (*f)(char*)  -> function pointer to a function with take pointer and return pointer
+
+
+### const and pointer
+    - always read it from right to left 
+    - if const is left to the * then the data is const 
+    - const char *
+    - char const *
+        - both are pointer to constant means we cannot change the value but we can change the pointer to point to new thing 
+
+    - char * const
+        - const char pointer means we cannot change what the pointer is pointing to but we can change the value 
+
+## types
     - bool:
-        - 0 and 1 
+        - true and false
+        - any number which is not zero would be considered true
+        - non null pointer is converted to true 
 
     - char:
         - 'a'
+        - we can use +  and - on this characters the char would be changed to the
+        the integer which matches this character and the operation is done.
+        - '1' + 1 -> would result in 49 as '1' equals to 48
+        - it is better to always use unsigned char 
 
     - int:
         - 1,2,3 
+        - it is by default signed 
 
     - double:
         - 1.2
@@ -54,13 +87,12 @@
         
         - && 
             - logical and 
-
         - || 
             - logical or 
 
-        - logical and , logical or both uses short circuit operations 
+            - logical and , logical or both uses short circuit operations 
 
-- namespace:
+## namespace
     - in cpp file you can define namespace in two ways
         - option 1:
             namespace my_namespace{
@@ -75,6 +107,9 @@
 
     - unname namespace:
         - if we want to link a function / variable  locally we define it in a name space this why only this file can access this definition
+
+    - inline namespace:
+        - we use it to enable ABI[application binary interface] the compiler would add the namespace before our namespace when we call the function and when we have a new version we add the inline before the new version and then the compiler would call the new version automatically 
 
 - literal:
     - it is used to write numbers or string 
@@ -100,7 +135,6 @@
     - static cast 
     - int i3  = static_cast<int>(i2)
 
-
 - enum:
     - normal enum
         - to define enum:
@@ -111,11 +145,15 @@
         - enum class my_enum_class{white, yellow, green}
         - my_enum_class enum_2 = my_enum_class::white 
 
-- initializer list:
+## auto 
+- auto with initializer list would considered a list : 
     - auto x = {1} // initializer list 
     - auto x = {1,2} // initializer list 
-    - auto x {1} // integer 
+    - auto x {1} // initializer list  
     - auto x {1,2} // error
+
+- with = 
+    - auto x = 1 -> integer 
 
 - string:
     - c style string 
@@ -129,19 +167,23 @@
             - char str2* = "ss" 
                 - would return the size of a pointer
                 - we cannot modify them as it is an const char* str ="ss"
+        - c_str() would get c style string from a string which is a pointer to a string when the string is deallocated the pointer is valid any more that is very important 
+
+        - to change any numbers to string we use std::to_string() which convert the number to string
 
     - raw string literal: 
         - const char* str = R"(string which we need )"
 
     - auto with string:
         - auto str = "-" -> would de const char*
-        - auto str = "-"s -> would be std::string 
+        - auto str = "-"s -> would be std::string we have write "using namespace std::string_literals;"
+        auto sv = "sdfc"sv -> would create string view, we have to write "using namespace std::string_view_literals;"
 
     - string view:
-        - it is used when you want to define function with accept std::string and const char * 
-        - you can convert implicit string view to string you have to call data or to use std::string constructor 
+        - it is used when you want to define function with accept const std::string& and const char * 
+        - you can convert implicit string view to string. you have to call data or to use std::string constructor 
 
-- pointer:
+## pointer
         - header file ist <memory>
     - unique_ptr:
         - auto var = std::make_unique<type>();
@@ -178,21 +220,62 @@
         - if the class wants to have a reference to itself which maybe would pass to callback function 
         - we can use lock to get shared pointer from weak pointer
 
-- chrono:
+## pair 
+    - The class pair treats two values as a single unit
+    - Piecewise Construction 
+        - it is used to decay the elements of the two tuples which are passed to create the
+        element of the pair 
+    - std::make_pair(12,"my_name"s) -> would create pair of int and string 
+    - access the element using first and second attribute 
+
+## tuples
+    - class that has an arbitrary number of elements 
+    - we can use make_tuple to create tuple without the need to define the types of the elements 
+
+## variant 
+    - std::variant it is the modern way to implement union 
+    - we can declare different data types in variant and reassign the variable according to the datatype 
+    ex:
+        - std::variant<int,bool,float> var_1
+        - var_1 = 5 
+        - auto x = std::get_if<int>(&var1)  
+        - x now is a pointer to integer 
+
+    - std::monostate as one of the types in a variant, 
+    we allow the variant to be default-constructed in a valid state without holding any other types
+
+## optional 
+    - std::optional can have the data or std::null_ptr 
+    - we can check it with if statement and access the data with the * operator
+
+## bitsets
+
+## chrono
+    - using namespace std::chrono_literals; 
+        - to use s and ms
     - header file <chrono>
-    - it is the number of ticks of a specific unit of seconds 
+    - duration it is the number of ticks of a specific unit of seconds 
     - std::chrono::duration<int,std::ratio<60>> two_minutes(2)
     - std::chrono::seconds threeSeconds(3)
     - we can convert bigger time unit to small without casting (minutes to seconds) 
-
+    - .count() -> would return the number of ticks in the duration
+    
 - clock:
     - steady_clock:
         - it is never adjusted means the time_point would never be minus 
 
     - chrono::system_clock::now()
         - would get the current time 
-
-- default parameter:
+    - to get the diff between two time points:
+        auto now = std::chrono::system_clock::now(); // type is std::chrono::system_clock::time_point
+        std::this_thread::sleep_for(1050ms);
+        auto later = std::chrono::system_clock::now();
+        auto duration = later - now;
+        std::cout << std::chrono::duration_cast<std::chrono::seconds>(duration).count() << "\n";
+        std::cout << std::chrono::duration_cast<std::chrono::milliseconds>(duration).count() << "\n";
+    
+    
+    - default parameter:
     - we can assign default parameter to a function in the header file
     - we assign default value of the member of the class in the hpp file
 
@@ -214,11 +297,7 @@
 - static_assert(bool, message):
     - this can help us to find the error at compile time
 
-    
-- type alias:
-    - using name = const int*
-
-- inheritance:
+## inheritance
     - override:
         - it allows base class reference / pointer to access derived class method 
         - we can override public, private, protected methods
@@ -236,54 +315,123 @@
         - we cannot override a static method 
         - static method is called by class name that why both base and derived class can have the same method_name
         
-
 - standard utility:
     - std::bind:
         - we can bind a function with parameter 
+
+## container 
+### sequential 
+    - array
+        - the size of the container doesnot change 
+    
     - vector:
-        - header file is <vector>
-        - [] -> does not provide boundary check 
-        - at -> provides boundary check an throw out_of_range 
-        constructor:
-            - std::vector<int> vec1; 
-            - std::vector<int> vec1(10,200)
-            - std::vector<int> vec1({1,2,3})
-
-        - assign():
-            - would delete the old values and assign new values to the vector 
-
-        vector of references: 
-        - vector<reference_wrapper<string>> vec;
-        - vec.push_back(ref(x))
-        
-        - size():
-            - to get the size of the vector
-
-        - reserve(int):
-            - would reserve memory for x elements
-
-        - empty()
-            - return weather the size of the vector = 0
-
-        - front():
-            - get the first element 
-
-        - back():
-            - get the last element 
-        
-        - clear():
-            - remove all elements of the vector 
-
-        - erase(iterator):
-            - delete the element
-
-
+        - size grow in one direction 
+    
     - deque:
-        - it is the same as vector but the elements are added at both end 
+        - size change in two directions 
 
-    - set:
-        - sort elements according to a certain criterion 
-        - type in set must be comparable 
+    - list:
+        - it is linked list 
+
+### associative
+    - map and set 
+
+## vector 
+    - header file is <vector>
+    - dynamic array 
+    - it has random access 
+    - [] -> does not provide boundary check 
+    - at -> provides boundary check an throw out_of_range 
+    constructor:
+        - std::vector<int> vec1; 
+        - std::vector<int> vec1(10,200)
+        - std::vector<int> vec1({1,2,3})
+
+    - assign():
+        - would delete the old values and assign new values to the vector 
+
+    vector of references: 
+    - vector<reference_wrapper<string>> vec;
+    - vec.push_back(ref(x))
+    
+    - size():
+        - to get the size of the vector
+
+    - reserve(int):
+        - would reserve memory for x elements
+
+    - empty()
+        - return weather the size of the vector = 0
+
+    - front():
+        - get the first element 
+
+    - back():
+        - get the last element 
+    
+    - clear():
+        - remove all elements of the vector 
+
+    - erase(iterator):
+        - delete the element
+
+## deque
+    - double ended queue 
+    - it is the same as vector but the elements are added at both end 
+    - we can add element the the begin using push_front()
+
+## list 
+    - it is linked list 
+    - Lists do not provide random access
+    - empty()
+        - to check if the list has elements 
+
+    - front()
+        - would get the first element in the list 
+
+    - pop_front()
+        - remove the first element in the list 
+
+## set
+    - collection of elements with no duplication
+    - sort elements according to a certain criterion 
+    - type in set must be comparable 
+
+## map
+    - it is container of key value pair 
+    - to find an element in the map 
+        - auto iterator = map.find(key)
+        - iterator.first return key 
+        - iterator.second return value 
+        - if the element doesnot exist it would return end()
+    
+    - to insert element 
+        - map.insert({key,value})
+
+    - to remove element by key 
+        - map.erase(key)
+
+    - to remove element by iterator 
+        - auto it = map.find(key)
+        - map.erase(it)
+
+    - to remove element by iterator
+        std::map<std::string,float> coll;
+        for (auto pos = coll.begin(); pos != coll.end(); ) {
+        if (pos->second == value) 
+            pos = coll.erase(pos);
+        else 
+            ++pos;
+        }
+
+    - map[key] = value
+        - if key doesnot exist a default constructor would create the value 
+        - then a copy assign would assign  the value to this key 
+        - this method is slow as it contain two steps 
+
+    - map.at(key)
+        - if key doesnot exit an exception would be thrown
+
 
 - algo:
     - find:
@@ -310,6 +458,42 @@
         - #define MAKE_STR(x) MAKE_STR2(x)
 
 # template:
+## Multiple Template Parameters
+    - template parameter
+        - template<typename T>
+
+    - Call parameters
+        - T max (T a, T b)
+
+## typename inside template 
+- when we define variable inside template which depends on another template we have to use typename
+    - ex:
+        template <typename T>
+        class MyClass {
+        typename T::SubType * ptr;
+        };
+    - without typename subtype would be considered a static variable 
+
+## this qualifier 
+- if u inherits from a template and u want to call method of the parent class always use this-> to indicate that you are using the vase method not a method in the global scope 
+    - ex 
+    template <typename T>
+        class Base {
+        public:
+            void exit();};
+
+        template <typename T>
+            class Derived : Base<T> {
+            public:
+            void foo() {
+            exit(); // calls external exit() or error we have to use this->exit()
+            }
+        };
+
+## where to write the template 
+- we write the template in the hpp file because the compiler create the template for a specific parameter when it is called and if we write the implementation in the cpp file when the compiler want to 
+create an instance of the template he cannot create it because the code is written in another file 
+
 - function template:
     - definition
         - template <class T>
@@ -344,3 +528,42 @@
         - V<char> cV;
         - V<int> iV(10);
         - V<float> fV(5);
+
+## design pattern 
+### solid 
+- single responsibility:
+    - a function should do only one thing 
+    - if a function has and in it is name means we war not obeying this rule 
+
+- open closed:
+    - open for extension closed for modification 
+
+- liskov substitution principle:
+    - if a function works with a pointer or reference to the base class it should also work with a pointer or a reference to all it is subclasses 
+
+- interface segregation:
+    - no client should be forced to depend on methods this it does not use 
+
+- Dependency inversion principle:
+    - high level modules should not depend on a lower level ones instead both 
+    should depend on abstraction
+
+
+dgdssafsafsdsdfasdffsdfsadf
+
+
+
+
+
+safsadfsdf
+
+
+
+
+
+
+
+
+
+
+

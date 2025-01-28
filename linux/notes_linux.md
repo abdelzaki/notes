@@ -1,25 +1,79 @@
-### shell  1:05
+## shell
 - shell is interpreter which pass command to the OS
 - types of shell such as bash or sh  
 
+## copy and create
+    - to copy a file or folder  
+        - cp -r source destination     
+        - cp -r folder1 ../folder2 
+            - this would move the folder to the parent folder
+                - if folder2 does not exist it would copy folder1 and rename it to folder2
+                - if folder2 exists  it would copy folder1 inside it and the folder would still have the same name 
+
+        - cp -r folder1 ../folder2 
+            - if folder2 does not exist it would move the folder 
+
+## change the password 
+    - passwd 
+        - this would change my own password 
+
+    - sudo passwd user_name
+        - this would change the password of this user 
+
+    - sudo passwd 
+        - this would change the password of the sudo user   
+
+## change user 
+    - change users:
+        - su - username 
+            - change to this user 
+        - su - 
+            - change to root 
+
+## find 
+    - find path -name "name"
+        - sudo find / -name "sps" 
+            - this would search the file sps in the whole system 
+
+## link 
+    - soft_link means if the original file deleted the link points to nothing and we cannot read the data anymore 
+        - link -s "source" destination 
+            - this would create soft link, if the source deleted the link is not valid 
+
+    - hard_link if the source is deleted the hard_link still has the data 
+        - ln "source" "destination" 
+            - if source is deleted the data still available  
+
+## chain commands 
+    - we can chain commands using ; 
+        - echo  "hi" ; ls ; echo "there" 
+            - this would execute the three commands ans if anyone failed it does not effect the other commands 
+
+## info about the OS
 - lsb_release -a:
     - to get the version of the OS 
 
-- ide to write files:
+- hostname
+    - to see the name of the system 
+
+- uname -a 
+    - information about the kernel 
+
+- uptime
+    - since when the system is active 
+
+
+## IDE to write files:
     - nano:
         - it is the easiest to create and write the files 
 
     - vi:
-        - i -> insert mode 
-        - :wq -> write and exit 
-        - :q! -Y exit without saving 
-    
-
-- change users:
-    - su - username 
-        - change to this user 
-    - su 
-        - change to root 
+        - i     -> insert mode 
+        - ESC   -> command mode
+        - :wq!  -> write and exit 
+        - :q!   -> exit without saving 
+        - d     -> delete the line 
+        - x     -> delete word 
 
 - permissions:
     - owners of the folder/ files are user, group, others 
@@ -35,10 +89,11 @@
 
     - owner is the person who created the file 
 
-    - chown user:group folder  
+    - chown -R user:group folder  
         - chown ese:ese /temp/test
         - to change the owner 
         - can be done only by the root 
+        - -R to make it recursively 
 
     - chmod ug=rwx,o+x
         - chmod ug=rwx, o=r /temp/test 
@@ -49,11 +104,11 @@
     - id username 
         - would show the groups which this id belongs to 
     
-    - useradd -m "username" -G sudo
-        - would add the user and create home directory to it and add it to sudo group 
+    - useradd -m "username" -G sudo -s /bin/bash 
+        - would add the user and create home directory to it and add it to sudo group and user bash as shell
 
     - userdel -r user 
-        - would delete this user 
+        - would delete this user and home directory
 
     - usermod user
         - would change the user  
@@ -74,12 +129,35 @@
     - ps -ef
         - would show the parent and children of the process  
 
-- systemctl:
+## systemctl:
     - we use it to manage daemon in systemd 
     - systemd is the init process 
 
-    - systemctl start/stop/enable/disable/restart daemon 
+    - systemctl start/stop/enable/disable/restart service 
 
+
+## ps & top 
+    - ps aux
+        - would show the active process on the system 
+
+    - top 
+        - would show real time active process and we go to inactive terminal mode
+        - q -> to quit 
+        - k -> to kill process 
+
+## crontab 
+    - crontab -e 
+        - to edit crontab 
+
+## shutdown 
+    - shutdown 
+        - this would stop the system 
+
+    - reboot
+        - would restart the system
+
+    - halt
+        - stop the system right now 
 
 ### prompt 
 - username@machine_name
