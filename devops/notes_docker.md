@@ -11,12 +11,16 @@
     - files which are used to build docker image 
 
 - Image:
-    - it is a build docker files which can be ran 
+    - it is compiled docker files 
 
 - container:
-    - it is the image when it is ran, run time instance of the image 
+    - run time instance of the image 
     
-- Container would user the Kernel to run the services 
+- Container would user the Kernel to run the services.
+
+- docker desktop:
+    - software in Windows 
+    - allow us to create linux container or windows container  
 
 - every container has main process which would have id 1 if this process exists the container would exit 
 
@@ -28,7 +32,7 @@
     - it is the place where the images are stored 
 
 - image name:
-    - it is repo:tag
+    - it is repo:tags
 
 # network 
 - Network types:
@@ -99,9 +103,9 @@
 - docker network create --subnet=172.18.0.0/16 my_net
     - to create network with a specific subnet 
 
-
 - docker container ls 
     - would show all active docker containers 
+    -a  -> would show all containers
 
 - docker image ls 
     - would show all images
@@ -126,3 +130,5 @@
 
 - docker container exec -it container_name bash 
     - this would open terminal on the container 
+
+- docker container / iamge rm "name_of_container"

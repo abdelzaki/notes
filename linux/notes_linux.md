@@ -101,6 +101,12 @@
         - owner and the root can change permissions 
 
 - users:
+    - users:
+        - would list all users in this system 
+
+    - groups:
+        - list all groups in the system
+
     - id username 
         - would show the groups which this id belongs to 
     

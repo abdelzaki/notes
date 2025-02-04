@@ -533,7 +533,7 @@ create an instance of the template he cannot create it because the code is writt
 ### solid 
 - single responsibility:
     - a function should do only one thing 
-    - if a function has and in it is name means we war not obeying this rule 
+    - if a function has a lot of information and in it is name means we war not obeying this rule 
 
 - open closed:
     - open for extension closed for modification 
@@ -549,13 +549,13 @@ create an instance of the template he cannot create it because the code is writt
     should depend on abstraction
 
 
-dgdssafsafsdsdfasdffsdfsadf
 
 
 
 
 
-safsadfsdf
+
+
 
 
 
