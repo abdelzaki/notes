@@ -28,13 +28,28 @@
 
 - every docker has an IP address which can be used so the containers can communicate with each other on the host system 
 
-- registry:
-    - it is the place where the images are stored 
 
 - image name:
     - it is repo:tags
 
-# network 
+- bash -c "echo hi; bash ":
+    - means run this command in bash and return bash 
+
+## registry
+- registry:
+    - it is the place where the images are stored 
+
+- docker login 
+    - to login with user name and pass 
+
+- docker tag image_old abdel/image_name:v1 
+    - create tag for this iage 
+
+- docker image push abdel/image_name:v1 
+    - would push this image to the registry
+
+## network 
+- for every docker container we create a virtual adapter would be created on the host machine 
 - Network types:
     - Bridge:
         - container has his own ip and ports which are not mapped to the external world 
@@ -59,30 +74,91 @@
 - docker container would by default connect to bridge connection
 
 - we can connect to a specific network
-    - docker run --network bridge 
-    - here the docker is connected to network type bridge 
+    - docker run --network network_name 
+    - here the docker is connected to this network 
 
-# docker file
+- docker network connect / disconnect "network_name" docker_name
+    - we connect this docker to this network 
+    - we can connect more than one network to the same container 
+
+## volumes 
+- to mount the folder
+    - doker container run -v path_host:path_docker "image_name"
+
+- docker volume create "volume_name"
+    - this would create volume
+
+## docker file
 - it is the file which is used to write command of which can be used to build docker image 
 - it starts always from from ubuntu:22.04 as base image 
 - the command starts with RUN 
 - to build:
     - docker build -t tag:name path 
 
-# docker compose
+- RUN
+    - this would run this command inside the image while building
+    - -y:
+        - this would say yes to the input of this command 
+    - bash file.sh
+
+- CMD 
+    - this command would run when the image runs and can be overrwritten by the docker run command
+    - CMD ["./src/file.sh"]
+
+
+- ENTRYPOINT
+    - this would run when the image is built and it cannot be overwritten but command can be appended to it 
+    - ENTRYPOINT ["/bin/bash", "-c"]
+
+- WORKDIR /app 
+    - create app directory and move to it 
+
+- ENV key=value
+    - this would create enviromental variable 
+    - would be used inside the docker container after the iamge is built 
+
+- ARG VAR=VALUE
+    - this would create variable which we can use this inside the docker file 
+
+## docker compose
+- docker compose --version
+    - would check if is installed 
+
+- docker-compose.yml
+    - the file in which we write the compose 
+
+### keys
+- image: app:latest
+
+    - docker image which we would run
+
+- build: ./folder   
+    - if the image is not built, build the service from this folder
+
+- depends_on: another_service 
+    - this service wont start untill the other service starts
+
+- command: sh -c "./app && cd /foler"
+
+- consist of:
+    - version 
+    - services
+    - networks
+    - volumes 
+
 - it enable us to run more than one service 
 - profile:
     - services which has profile wont run automatically when we call docker-compose up 
     - docker compose --profile name_of_profile up
 - to overwrite the command of the docker compose
-    - docker-compose run "name_of_profile" bash
+    - docker-compose run "name_of_profile" bash 
 
 ## logs
     - we can see the logs of the container 
     - docker container logs name_of_container 
         - would show us the logs of the container 
 
-# commands
+## commands
 - docker image pull "image_name"
     - docker image pull python 
     - would pull python image from the web 
@@ -96,9 +172,14 @@
     -d              -> detach so the docker would run in the background 
     --name          -> would give a name to the container 
     --add-host      -> name:ip to give hostname and ip address to the docker 
+                    -> we can ping this name or the ip address 
     -it             -> interactive terminal  
     --net           -> to connect docker to a specific network 
     --ip            -> to assign container to a specific ip
+    -e              -> enviromental variable 
+
+- docker container cp source_file dockername:path_inside_docker:
+    - this would copy file from host machine to a docker container 
 
 - docker network create --subnet=172.18.0.0/16 my_net
     - to create network with a specific subnet 
@@ -118,15 +199,6 @@
 
 - docker build -t name_of_image path_of_docker_file
     - this is used to build an image from a docker file 
-
-- docker run
-    - this would run this command inside the image while building
-
-- CMD 
-    - this command would run whien the image is built and can be overrwritten by the docker run command
-
-- ENTRYPOINT
-    - this would run when the image is built and it cannot be overwritten but command can be appended to it 
 
 - docker container exec -it container_name bash 
     - this would open terminal on the container 

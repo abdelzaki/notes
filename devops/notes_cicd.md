@@ -10,7 +10,7 @@
     - consist of steps which run serial 
     - jobs run parallel to another job 
     - runs where we define at which operation system it can work 
-    -     
+    - if the job exit with non zero value means the job has failed 
 
 ## actions
     - uses: actions/checkout@v2
@@ -29,6 +29,17 @@
     - runs-on: ubuntu:latest 
         - the code would run on ubuntu  
 
+## outputs  
+    - we define variable which can be used by another job 
+
+    outputs:
+        - output1: ${{ steps.step1.outputs.var1 }}
+    
+    steps:
+        - id: step1
+        - run echo "var1=value" << $GITHUB_OUTPUT
+
+
 ## attributes:
     - name at the beginning of the file:
         - name of the workflow
@@ -42,6 +53,16 @@
 
     - needs:
         - this make this job run after the job it needed 
+        - jobs:
+            job1:
+            job2:
+                needs: job1
+            job3:
+                if: ${{ always() }}
+                needs: [job1, job2]
+        
+        - always()
+            - means job3 would run after job1 and job2 even if they are failed
 
     - workflow_dispatch:
         - button which can trigger the actions 
@@ -56,18 +77,38 @@
     - we use it as a filter on the trigger 
     ex:
         on:
-        label:
-            types:
-            - created
+            label:
+                types:
+                - created
 
         - trigger happens on the creation of a label 
 
 ## env:
     - it is a map {key ,value}
-    - the map would be avaliable to the jobs and steps 
+    - the map would be avaliable to all jobs and steps 
     - ex:
         env:
-            SERVER: production
+            SERVER: production 
+
+## matrix 
+    - job would run for all the values of the matrix 
+    - if we have more than one matrix the job would run for every combination
+    - jobs:
+        example_matrix:
+            strategy:
+            matrix:
+                os: [ubuntu-22.04, ubuntu-20.04]
+                version: [10, 12, 14]
+            runs-on: ${{ matrix.os }}
+            steps:
+            - uses: actions/setup-node@v4
+                with:
+                node-version: ${{ matrix.version }}
+
+## if
+- if : always()
+    - means this job would always run even if the job which is needed is skipped or failed  
+
 
 ## defaults:
     defaults:

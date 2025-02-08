@@ -5,6 +5,12 @@
     - #define key value 
     - #pragma once 
 
+    - to disable a certain warning:
+        - #pragma warning(push)
+        - #pragma warning(disable:4512)
+        - #include <boost/lambda/lambda.hpp> #pragma
+        - warning(pop) 
+
 - main:
     - it is the start point of the program 
     - return 0 if the program ended without failure 
