@@ -118,7 +118,30 @@
     - this would be added to all the jobs 
 
 # jenkin
+## agent    
+    - device which would execute the code 
+    - agent none
+
+
+## maven
+- add maven job
+- provide:
+    - test report 
+    - increment builds 
+    - post build 
+
+## workspace 
+- for every job there is a workspace which would be created 
+- we find workspace under 
+    - /var/lib/jenkins/workspace 
+
+- we should make sure that we have jave
+    - to check that we have java
+        - java -version 
+    
     - automation tool 
+    - it makes pipeline to execute different stages  
+
     - to install jenkin in docker:
         - docker run --privileged -u 0 -p 8080:8080 -p 50000:50000 -v path_locally:/var/jenkins_home jenkins/jenkins_lts
 
@@ -131,5 +154,130 @@
         - shell that is runs 
 
     - piplines:
+        - it is a way to restore the step with the code in source control managment
         - consist of stages which we define based on commands we write  
+        - script which tell jenkins what to do 
+        - we write it in Jenkinsfile 
     - 
+### docker
+- we can use docker with jenkins that jenkins run inside docker 
+    - ex:
+        pipeline 
+        {
+            agent { dockerfile true }
+            stages {
+                stage('Test') 
+                {
+                    steps 
+                    {
+                        --
+                    }
+                }
+            }
+        }
+
+### multibranch
+- it is a way to collect more than one pipeline in the same folder
+
+### pipeline 
+- input: 
+    - we write input parameter before the steps 
+    - ex:
+        pipeline 
+        {
+            agent any
+            stages 
+            {
+                stage('Hello') 
+                {
+                    input 
+                    {
+                        message "What is your first name?"
+                        ok "Submit"
+                        parameters {
+                        string(defaultValue: 'Dave', name: 'FIRST_NAME', trim: true) 
+                    }
+                    }
+                    steps
+                    {
+                        echo 'Hello World'        
+                    }
+                }
+            }
+        }
+
+- timeout:
+    - we can put timeout around the step 
+    - ex:
+        options 
+        {
+            timeout(time: 10, unit: 'SECONDS') 
+        }
+        steps 
+        {
+            --
+        }
+
+- enviromental:
+    - we can store the variable inside this scope
+    - ex:
+        pipeline 
+        {
+            agent any
+            environment 
+            {
+                DISABLE_AUTH = "true"
+                DB_ENGINE    = 'sqlite'
+            }
+
+            stages 
+            {
+                stage('Build') 
+                {
+                    steps 
+                    {
+                        echo "Database engine is ${DB_ENGINE}"
+                        echo "DISABLE_AUTH is ${DISABLE_AUTH}"
+                        sh 'printenv'
+                    }
+                }
+            }
+        }
+
+
+- parameter 
+    - we can add parameter to the jekins as input
+    - ex:
+    pipeline 
+    {
+        agent any
+        parameters 
+        {
+          string(name: 'PERSON', defaultValue: 'Mr Jenkins', description: 'Who should I say hello to?')
+        }
+        stages 
+        {
+            stage('Example') 
+            {
+                steps 
+                {
+                    sh "echo Hello ${params.PERSON}"
+                }
+            }
+        }
+    } 
+
+- changeset:
+    - we can run the step according to a speicifc changeset 
+    - ex:
+    stage("change)
+    { 
+        when 
+        { 
+            changeset " **/readme.md" 
+        }         
+        steps 
+            { 
+                echo 'rrrrr'
+            }
+    }

@@ -165,6 +165,10 @@
     - halt
         - stop the system right now 
 
+## ssh
+- to login 
+- ssh -i path_of_key username@ip
+
 ### prompt 
 - username@machine_name
 - # -> root 

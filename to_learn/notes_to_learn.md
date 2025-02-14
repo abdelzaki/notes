@@ -9,3 +9,9 @@
 - Azure DevOps
 - Networking n+
 - what is web server 
+
+Kenntnisse in den Bereichen Machine Learning, Deep Learning und Künstliche Intelligenz
+Erfahrung mit Frameworks wie TensorFlow, PyTorch, Keras oder ähnlichen
+
+
+Fundierte Kenntnisse der Cyber­sicherheit in Bezug auf Sicherheits­protokolle (TLS), Ver­schlüsselung (z. B. AES, RSA) und Schlüssel­verwaltung wie PKI oder BYOE
