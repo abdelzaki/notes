@@ -1,6 +1,84 @@
 ## shell
-- shell is interpreter which pass command to the OS
-- types of shell such as bash or sh  
+    - shell is interpreter which pass command to the OS[kernel]
+    - types of shell such as bash or sh  
+
+## terminal
+    - it is a way to communicate with the shell 
+    - terminal could be sh or bash 
+    - #!/bin/sh
+    - #!/bin/bash
+
+### prompt 
+    - username@machine_name
+    - # -> root 
+    - $ -> normal user 
+
+## tty 
+    - we can log with more than one user we can use tty 
+    - tty 
+        - would show us which tty we are currently using 
+
+## change user 
+    - change users:
+        	- the '-'
+                - means change the working directoy to the home directoy of this user  
+
+        - su - username 
+            - change to this user 
+            - go to the home directoy of this user 
+        - su - 
+            - change to root 
+            - go to the home directroy of the root 
+            - we are in /root 
+
+        - su 
+            - change to root 
+            - stay in this directory
+
+    - root can change to any user without password 
+
+    - exit
+        - this command we exit the active session and go to the next session 
+        - if this is the last session it would close the terminal 
+
+## change the password 
+    - passwd 
+        - this would change my own password 
+
+    - sudo passwd user_name
+        - this would change the password of this user 
+
+    - sudo passwd 
+        - this would change the password of the sudo user   
+
+## file system 
+    - file system starts from the the directory / 
+    
+    - /home
+        - the home directory of all users 
+    
+    - /root 
+        - home directory of root user 
+
+    - /bin 
+        - commands whould be here written
+
+    - /sbin 
+        - commands of the root user 
+
+    - /etc 
+        - configuration file 
+
+### link 
+    - soft_link means if the original file deleted the link points to nothing and we cannot read the data anymore 
+        - link -s "source" destination 
+            - this would create soft link, if the source deleted the link is not valid 
+
+    - hard_link if the source is deleted the hard_link still has the data 
+        - ln "source" "destination" 
+            - if source is deleted the data still available  
+
+
 
 ## copy and create
     - to copy a file or folder  
@@ -13,41 +91,12 @@
         - cp -r folder1 ../folder2 
             - if folder2 does not exist it would move the folder 
 
-## change the password 
-    - passwd 
-        - this would change my own password 
-
-    - sudo passwd user_name
-        - this would change the password of this user 
-
-    - sudo passwd 
-        - this would change the password of the sudo user   
-
-## change user 
-    - change users:
-        - su - username 
-            - change to this user 
-        - su - 
-            - change to root 
-
 ## find 
     - find path -name "name"
         - sudo find / -name "sps" 
             - this would search the file sps in the whole system 
 
-## link 
-    - soft_link means if the original file deleted the link points to nothing and we cannot read the data anymore 
-        - link -s "source" destination 
-            - this would create soft link, if the source deleted the link is not valid 
 
-    - hard_link if the source is deleted the hard_link still has the data 
-        - ln "source" "destination" 
-            - if source is deleted the data still available  
-
-## chain commands 
-    - we can chain commands using ; 
-        - echo  "hi" ; ls ; echo "there" 
-            - this would execute the three commands ans if anyone failed it does not effect the other commands 
 
 ## info about the OS
 - lsb_release -a:
@@ -75,7 +124,7 @@
         - d     -> delete the line 
         - x     -> delete word 
 
-- permissions:
+## permissions:
     - owners of the folder/ files are user, group, others 
     - permissions are read write execute 
 
@@ -100,7 +149,7 @@
         - to change the permissions
         - owner and the root can change permissions 
 
-- users:
+## users:
     - users:
         - would list all users in this system 
 
@@ -119,7 +168,7 @@
     - usermod user
         - would change the user  
 
-- process:
+## process
     - anything which can run 
     
     - to run process in the background & 
@@ -169,41 +218,46 @@
 - to login 
 - ssh -i path_of_key username@ip
 
-### prompt 
-- username@machine_name
-- # -> root 
-- $ -> normal user 
+
 
 ### simple commands
-- date
-    - show the date 
+    - we can chain commands using ; 
+        - echo  "hi" ; ls ; echo "there" 
+            - this would execute the three commands ans if anyone failed it does not effect the other commands 
+    - date
+        - show the date 
 
-- ncal
-    - show the calender 
+    - cal 
+        - would show us the calender 
+        - cal 2022
+            - would show us the calender of the year 2022
 
-- df 
-    - show the free blocks 
+    - ncal
+        - show the calender 
 
-- exit
-    - end the session 
+    - df 
+        - show the free blocks 
 
-- cd - 
-    - go to the previous path 
+    - exit
+        - end the session 
 
-- ls -lhA
-    - h for human 
-    - A for almost all 
+    - cd - 
+        - go to the previous path 
 
-- file "filename"
-    - give information about the file 
+    - ls -lhA
+        - h for human 
+        - A for almost all 
 
-- less "filename"
-    - see the content of the file 
-    - to exit write q 
+    - file "filename"
+        - give information about the file 
 
-- cp -i  file1 file2 
-    - if file2 exists the system would ask us 
+    - less "filename"
+        - see the content of the file 
+        - to exit write q 
 
-- cp -rv folder1 folder3 
-    - r-> copy for folders
-    - v-> verbose show what are being copied 
+    - cp -i  file1 file2 
+        - if file2 exists the system would ask us 
+
+    - cp -rv folder1 folder3 
+        - r-> copy for folders
+        - v-> verbose show what are being copied 
