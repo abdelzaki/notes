@@ -51,6 +51,15 @@
     - sudo passwd 
         - this would change the password of the sudo user   
 
+## sudo 
+    - if the user is joined to the sudo group can perform super command 
+    - sudo command 
+        - here would ask password of the current user 
+
+    sudo -i
+        - ask for my password 
+        - perform super commands
+
 ## file system 
     - file system starts from the the directory / 
     
@@ -61,13 +70,21 @@
         - home directory of root user 
 
     - /bin 
-        - commands whould be here written
+        - commands whould be here written 
+        - it is link to /usr/bin
 
     - /sbin 
         - commands of the root user 
+        - it is link to usr/sbin
 
     - /etc 
         - configuration file 
+    
+    - /opt 
+        - third party applications 
+
+    - /proc 
+        - information about process 
 
 ### link 
     - soft_link means if the original file deleted the link points to nothing and we cannot read the data anymore 
@@ -79,6 +96,16 @@
             - if source is deleted the data still available  
 
 
+## naviagation 
+    - ~
+        - this show home directoy of the current user 
+
+    - ls 
+        - list directory and file 
+    
+    - cd -
+        - go back to the last directory i was in 
+    
 
 ## copy and create
     - to copy a file or folder  
@@ -95,8 +122,6 @@
     - find path -name "name"
         - sudo find / -name "sps" 
             - this would search the file sps in the whole system 
-
-
 
 ## info about the OS
 - lsb_release -a:
@@ -145,12 +170,19 @@
         - -R to make it recursively 
 
     - chmod ug=rwx,o+x
+        - a refere to all
+        - chmod +x -> excute for everyone
         - chmod ug=rwx, o=r /temp/test 
         - to change the permissions
         - owner and the root can change permissions 
 
 ## users:
-    - users:
+    - systemusers 
+        - it has id which is less than 999
+        - process takes systemuser id 
+        - systemuser can not open shell 
+
+    - sudo users:
         - would list all users in this system 
 
     - groups:
@@ -158,15 +190,46 @@
 
     - id username 
         - would show the groups which this id belongs to 
+
+    - id 
+        - show information about me 
     
     - useradd -m "username" -G sudo -s /bin/bash 
+        - args
+            - -m
+                - create home 
+
+            - -s 
+                - shell type 
+
+            - -G 
+                - group to join 
+
+            - -c 
+                - comment 
+
         - would add the user and create home directory to it and add it to sudo group and user bash as shell
+        - then i should create password to this user  
 
     - userdel -r user 
         - would delete this user and home directory
 
     - usermod user
         - would change the user  
+        - -aG group1,group2
+            - would add the user to this group 
+        
+        - -rG group1 
+            - remove the user from this group 
+
+    - /etc/passwd
+        - information about the users in the system 
+        - username:password[x]:userid:groupid:comment:home_directoy:default_shell 
+
+    - /etc/shadow 
+        - here is the password of the users encrypted
+        - user_name:password:days_from_epoc:minimum_days_to_change_password:minimun_days_to_change_password
+         warning_before_expiration: 
 
 ## process
     - anything which can run 
@@ -218,9 +281,10 @@
 - to login 
 - ssh -i path_of_key username@ip
 
-
-
 ### simple commands
+    - command options argument
+
+
     - we can chain commands using ; 
         - echo  "hi" ; ls ; echo "there" 
             - this would execute the three commands ans if anyone failed it does not effect the other commands 
