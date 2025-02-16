@@ -95,7 +95,6 @@
         - ln "source" "destination" 
             - if source is deleted the data still available  
 
-
 ## naviagation 
     - ~
         - this show home directoy of the current user 
@@ -106,7 +105,6 @@
     - cd -
         - go back to the last directory i was in 
     
-
 ## copy and create
     - to copy a file or folder  
         - cp -r source destination     
@@ -136,6 +134,25 @@
 - uptime
     - since when the system is active 
 
+## compressing 
+    - applied to file
+    - gzip file_name
+        - would compress the file  
+
+    - gzip -d file_name
+        - would unzip the file 
+
+## archiving 
+    - applied to folder
+    - create folder.tar
+    - tar -command filename.tar origin_data
+        - -cf :create archive 
+        - -xf : extract
+        - -tf : list files 
+        - -vf : verbose 
+        - z   : archieve and compress
+        - we use sudo tar -c so we can keep the previous owner 
+
 
 ## IDE to write files:
     - nano:
@@ -143,11 +160,18 @@
 
     - vi:
         - i     -> insert mode 
+        - o     -> insert new line
         - ESC   -> command mode
+        - v     -> visual
         - :wq!  -> write and exit 
         - :q!   -> exit without saving 
         - d     -> delete the line 
+        - dw    -> delete line 
         - x     -> delete word 
+        - dw    -> delete till the end of the line
+        - u     -> undo
+        - set number -> show line number 
+        - w newfile -> write to another file 
 
 ## permissions:
     - owners of the folder/ files are user, group, others 
@@ -240,28 +264,36 @@
     - to end a process:
         - kill pid 
         - kill -9 pid -> this cannot be caught 
+        - pkill name
     
+    - ps
+        - show process which is running in this terminal 
+        - -a 
+            - show all process on all termianl
     - ps aux
         - show all the process 
+        - a 
+            - all terminal 
+
+        - u 
+            - more information 
+
+        - x 
+            - show process which is started by the kernel 
 
     - ps -ef
         - would show the parent and children of the process  
+
+    - top 
+        - would show real time active process and we go to inactive terminal mode
+        - q -> to quit 
+        - k -> to kill process 
 
 ## systemctl:
     - we use it to manage daemon in systemd 
     - systemd is the init process 
 
     - systemctl start/stop/enable/disable/restart service 
-
-
-## ps & top 
-    - ps aux
-        - would show the active process on the system 
-
-    - top 
-        - would show real time active process and we go to inactive terminal mode
-        - q -> to quit 
-        - k -> to kill process 
 
 ## crontab 
     - crontab -e 
@@ -277,9 +309,54 @@
     - halt
         - stop the system right now 
 
+## networking 
+    - ip link show
+        - would show us the internet cards 
+
+        - link/ether
+            - that is the mac address 
+
+    - ifconfig
+        - it is an old command
+        - it is a package inside net-tools
+        - would show us the ip address
+        - inet
+            - it is the ip address     
+
+    - ip address show
+        - it is the new way to show the ip-address      
+
+    - ip route 
+        - show as the routing table   
+
+    - nmcli 
+        - network manangement command line interface 
+        - nmcli device status 
+        - connection:
+            - is the configuration 
+        - device:
+            - is the hardware
+
+        - configuration is saved in /etc/NetworkManager/system-connections 
+
+    - to change hostname:
+        - hostnamectl set
+
 ## ssh
-- to login 
-- ssh -i path_of_key username@ip
+    - package name openssh-server this would install sshd
+    - we have two keys public and private 
+    - default port is 22 
+    
+    - to login 
+        - ssh -i path_of_key username@ip 
+
+    - to generate key 
+        - ssh-keygen 
+            - this would generate public and private key which 
+        
+        - ssh-copy-id user@ip
+            - to copy the public key 
+
 
 ### simple commands
     - command options argument
