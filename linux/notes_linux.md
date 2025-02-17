@@ -298,6 +298,12 @@
 ## crontab 
     - crontab -e 
         - to edit crontab 
+    
+    - days of week:
+        - 0 and 7 is sunday
+        - 1 monday
+
+    - */5 -> every 5 minutes 
 
 ## shutdown 
     - shutdown 
