@@ -408,3 +408,7 @@
     - cp -rv folder1 folder3 
         - r-> copy for folders
         - v-> verbose show what are being copied 
+
+    - ping -t ip   
+        - would run all time
+

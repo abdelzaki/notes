@@ -121,6 +121,10 @@
     - this would create variable which we can use this inside the docker file 
 
 ## docker compose
+- it is a way to combine image + voume + network 
+- we can create network and volumes using docker-compose
+- service can communicate with each other using the name of the service if they are hosted on the same Network 
+
 - docker compose --version
     - would check if is installed 
 

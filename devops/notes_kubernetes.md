@@ -7,15 +7,8 @@
     - rollout and rollback 
 
 ## architecture 
-    - pod:  
-        - it is abstraction layer above the container 
-        - the user doesnot need to communicate with the container but with the pod which is the abstraction layer above the container  
-        - pod contains one container or more containers which share the same resources 
-        - it has container Runtime 
-        - pod can be stopped 
-        - every pod implement a single service 
-
     - service 
+        - it is a long life object 
         - it is an ip address which is connected to the pod 
 
     - ingress:
@@ -54,9 +47,14 @@
 
     - kubelet:
         - it has interface with container and the machine which run this container 
+        - managing the resources on the worker node
 
     - kube proxy:
         - it is the network interface 
+        - load balancing and generating the IP addresses 
+
+    - container run time:
+        - resonsible for running the container 
 
     - worker nodes:
         - contains one or more pod 
@@ -75,6 +73,7 @@
     
     - controller manager:
         - detect status change of the pods 
+        - if pods or replicaset has a problem it would handle the issue 
 
     - cloud controller manager:
         - enable clouding  
@@ -117,8 +116,13 @@
     - kubectl logs pod_name 
         - show the logging of the pods 
 
-    - kubectl apply -f file.yaml
+    - kubectl apply -f file.yaml 
         - execute what is written in this file 
+
+    - kubectl apply -f . 
+        - apply to every file
+    
+    - kubectl describe service/pod name_of_respurce
 
     - kubectl explain resources_type
         - would show us how to write yaml
@@ -128,6 +132,9 @@
 
 ## namespace 
     - it is a way to group resources 
+
+    - kubectl create namespace name_space
+        - would create namespace
 
 ## components
     - container runtime 
@@ -178,11 +185,12 @@
 
 ## deployment 
     - can perform 
+        - zero downtime for roll out / back 
         - scaling up/down 
-        - roll out / back
 
     - group of identical pods 
     - deployment runs multiple replices and can automatically replace any instance if one failed 
+    
     - commands:
         - kubectl create deployment --image=nginx nginx-app
             - create an image  
@@ -192,13 +200,25 @@
 
 ## replicaset
     - run multiple instance of the same pod 
+    - we need to define selector inside the replicaset
+    - we donot need to write a seperate pod yaml file, we write it inside the replicaset file 
     - if one pod failed the another one would be created and it takes it's place 
+    
     - commands:
         - kubectl get rs 
             - list replicaset 
 
         - kubectl scale rs name_replicaset --replicas=4 
             - change number of replicas to 4 
+
+## pod:  
+    - it is abstraction layer above the container 
+    - the user doesnot need to communicate with the container but with the pod which is the abstraction layer above the container  
+    - pod contains one container or more containers which share the same resources 
+    - it has container Runtime 
+    - pod can be stopped 
+    - every pod implement a single service 
+    - we cannot access the pod from outside the cluster 
 
 ## services 
     - expose application as a network service 
@@ -209,6 +229,12 @@
             - it is the default type 
             - access the application only inside the cluster 
             - when two deployments inside the same cluster want to communicate
+        
+        - NodePort
+            - we can access the service from outside world
+            - it has nodePort value which is more than 30000 
+
+        
 
 ## ingress 
     - 
