@@ -104,3 +104,5 @@
             [0 0 0 0 | 0] 
         
         - this system has infinite solutions as it has more variable then the leadings 1 
+
+# calculus

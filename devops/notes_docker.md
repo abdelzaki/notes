@@ -129,7 +129,9 @@
     - would check if is installed 
 
 - docker-compose.yml
-    - the file in which we write the compose 
+    - the file in which we write the compose  
+
+- port is mapped -> HOST_PORT:CONTAINER_PORT
 
 ### keys
 - image: app:latest
