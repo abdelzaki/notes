@@ -41,7 +41,6 @@
         [1_i^ 1_j^]
         [2_i^ 2_j^]
 
-
 ## matrix   
     - defination
         - array of numerbs arranged into Rows and columns 
@@ -57,6 +56,19 @@
 
     - multiplication:
         - it is moving the whole system with the matrix we multiple 
+        - [m x n] * [n x b] = [m x b] 
+
+    - identiy matrix:
+        - [1 0 0]
+        - [0 1 0]
+        - [0 0 1] 
+
+    - inverse matrix
+        - A * A^-1 = I 
+
+    - matrix transpose 
+        - change row to columns 
+
 
 ## determint
     - the factor by which the area increased / decreased
@@ -105,4 +117,7 @@
         
         - this system has infinite solutions as it has more variable then the leadings 1 
 
-# calculus
+# calculus 
+    - derivative
+        - it is a line which touch the curve 
+        - if the line is pos means it increase the value on x 
