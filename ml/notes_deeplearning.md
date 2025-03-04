@@ -4,17 +4,21 @@
 ## machine learning 
     - what is machine learning:
         - we have a computer which learns from the data  
-        - computer which have the ability to learn with being explicity programmed 
+        - computer which have the ability to learn without being explicity programmed 
+        - we have data and labels and the machine figure out the rules 
 
     - supervised:
         - we teach the machine what to do 
         - we pass the data with a label which represents the solution 
+        - machine figures out the rule
         - ex:   
             - line regression [predict the price of a house based on some features] [continous result] 
             - classification [discret result]
 
     - unsupervided:
-        - the macheine gets the pattern by itself 
+        - the macheine gets the pattern by itself
+        - we have only the features without the label 
+        - clustering the data 
 
     - reinforcement:
         - agent train in enviromental and learn by itself 
@@ -28,6 +32,7 @@
         - it is the input variabel 
 
     - traget:
+    - label:
         - it is the output variable 
 
     - m:
@@ -47,6 +52,16 @@
 ## contour figure:
     - elipse which show the the parameter which have the same error values 
 
+## vonvex
+    - it is the function which has minimum deep point 
+
+## fitting 
+    - overfitting 
+        - the model is adjust too much to fit the training data so the model captures also the noise in the data 
+
+    - underfitting 
+        - training data is not enough 
+        - we choiced the wrong model to represent our system 
 
 ## gradient descent
     - it is a way to find the parameter which best fit to the line which represent the data 
@@ -76,7 +91,10 @@
             
             - multiple features 
                 - f = W1X1 + W2X2 + .. + b 
-                - 
+                -  
+
+            - polynomial regression 
+                - f = w1x + w2x^2 + w3x^3 + b
 
     - classification
         - output is catogorize 
@@ -104,6 +122,7 @@
 
 # neuteral networking 
     - we use here deep learning 
+    - data is reprenseted as data layer
     - it has a deep layer 
 
     - neuron:
