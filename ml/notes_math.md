@@ -121,3 +121,5 @@
     - derivative
         - it is a line which touch the curve 
         - if the line is pos means it increase the value on x 
+
+# linear programming

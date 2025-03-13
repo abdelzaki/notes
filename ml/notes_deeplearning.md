@@ -86,7 +86,7 @@
 
         - model:
             - single features:
-                - we call it linear regressuin 
+                - we call it linear regression 
                 - f = a + bx 
             
             - multiple features 
@@ -108,6 +108,17 @@
 
             - decidion boundaries:
                 - decide where to draw the line / shape to seperate between the data   
+
+## logistic regression
+    - general:
+        - we habve Nx features and we want to decide the output Y which ist binary{1,0}
+        - we use sigmoid function to make the prediction value from 0 -> 1 
+    
+    - loss function 
+        - it is the error function
+        - we want to measure how good our prdiction is 
+        - if we used the sameone like the linear regression we would get not convex function which it is hard to get the local minimum 
+        - equation = -(ylog(y-hat) + (1-y)log(1-y))
 
 ## unsupervised 
     - we donot have a label for the output data  
@@ -133,12 +144,41 @@
         - sigmoid:
             - map the input between 0..1 
 
+## bias and variance 
+    - bias:
+        - the erro in the training set is to high 
+
+    - variance:
+        - different between training and testing is to high 
+
 ## training a neueral network 
+### definition
+    - iteration:
+        - everytime the network update the weights 
+        - everytime we make prediction 
+
+    - epoch:
+        - one epoch when the network has seen the whole dataset 
+
+    - batchsize:
+        - how many data we use to update the weights 
+
+    - hyperparameter:
+        - learning rate 
+        - iteration 
+        - number of hidden layers 
+        - hidden neueron 
+        - activation functions 
+        
 
 
+# - Convolutional Neural Networks [CNN]
+    - we use it to detect image 
 
-
-    
+## convolution 
+    - it has a kernel 
+        - it is a feature detection 
+        - we can extract features from the image using the kernel 
 
 ## general 
 - image has three colors [RGB]
@@ -166,7 +206,7 @@
         - analog digital convertion 
         - sampeling and quantised 
         - sampling is a step 
-        - quantised ist the step in the amplitude
+        - quantised ist the step in the y-axis
 
 ## fourier:
     - general
@@ -174,6 +214,8 @@
         - we get the magnitude as a function in frequency
         - we move from the time domain to the frequency domain 
         - no time information 
+        - we get amplitude which affect the signal through the whole time 
 
     - short time fourier:
-        - computes serveral fft at different tome  
+        - computes serveral fft at different time
+        - information about amplitude, frequency and time   

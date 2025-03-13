@@ -71,7 +71,15 @@
 ## tuple 
     - we cannot modify it 
     - empty_tuple = tuple()
-    - tuple = ("element_1", "element_2", "element_3") 
+    - tuple = ("element_1", "element_2", "element_3")  
+
+## nametuple 
+    - it is like enum 
+    - defined inside collections 
+
+    - Color = namedtupled("name", ["red","white", "black"]) -> defined the name 
+    - color = Color(1,3,5) -> define values 
+    - x = color.white
 
 ## set 
     - it has unique elements 
@@ -101,6 +109,11 @@
     - dict_1.items()
         - return all the element 
 
+### default dictionary 
+    - from collections import defaultdict
+    - we define the value type in declaration 
+    - if we try to access the element which is not exit we wont get error but get default value of this value [int would return 0]
+
 ## slicing:
     - [start:end:step]
         - this is how we access the data
@@ -119,6 +132,12 @@
     
     [:-1]
         - get till the element before the last element 
+
+## zip 
+    - we can zip two list to a list with tuples 
+    - so we can map the two items 
+    - ex:
+        - for x, y in zip(list1,list2)
 
 ## conditions 
     - and 
@@ -149,11 +168,44 @@
         - this function take undefined numbers of parameter in args and name parameter in kwargs 
         - func( 1, 2 , name = "ahmed", age = 12)
             - args would have tuple with (1 ,2 )
-            - kwargs have dictionary with {"name": "ahmed" , "age": 12}
+            - kwargs have dictionary with {"name": "ahmed" , "age": 12} 
+
+    - passing argument:
+        - we can pass argument by poisition or by name
+        - by positon should be alway at first 
+
+    - poistion only parameter
+        - def function_2(a= 10 , b= 20,/,c = 30 , d = 40 ):
+        - before / parameter should only passed by position 
+        - after / can be passed anyway
+    
+    - keyword only:
+        - def function_2(a= 10 , b= 20,*,c = 30 , d = 40 ):  
+        - c and d should be passed keyword only  
 
 ## import 
     - python search file in current folder, python standard library folder, package folder 
 
+## closure and decorator 
+### first class function 
+    - function can be passed as a paraemter and be returned from a function 
+    - we can return a function from another function and the returned function would remember the paraemter of the origin function 
+
+### closure 
+    - function remeber the variable which is defined outside it 
+    - function capture the variable which is defined outside and also remember the parameter of the outter function
+
+### decorator 
+    - it take function as a parameter and execute it inside an internal function with is returned from the decorator
+    - the decorator does not execute the inner function it return it 
+
+    - @decorator 
+        - this would take the function as a paramter and excute code before it 
+
+    - we can make the decorator pass argument by using *args and **kwargs 
+
+    - decorator itself can take arugments but defining outter decorator to the inner decotator 
+    and call the decotaor @decotaor("arg_1")
 
 ## os  
     - module which allow us to work with operation system 
@@ -197,3 +249,7 @@
 
     - pip install -r requirements.txt 
         - install all package which is listed here 
+
+
+
+    
